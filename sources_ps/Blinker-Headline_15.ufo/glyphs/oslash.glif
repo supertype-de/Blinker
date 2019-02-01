@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="442.0"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="8.0" y="-19.0" type="line"/>
+      <point x="111.0" y="-82.0" type="line"/>
+      <point x="190.0" y="42.0" type="line"/>
+      <point x="145.0" y="162.0" type="line"/>
+      <point x="201.0" y="367.0" type="line"/>
+      <point x="353.0" y="375.0" type="line"/>
+      <point x="438.0" y="511.0" type="line"/>
+      <point x="336.0" y="575.0" type="line"/>
+      <point x="263.0" y="461.0" type="line"/>
+      <point x="215.0" y="415.0" type="line"/>
+      <point x="112.0" y="193.0" type="line"/>
+      <point x="78.0" y="95.0" type="line"/>
+    </contour>
+    <component base="o"/>
+    <contour>
+      <point x="227.0" y="520" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

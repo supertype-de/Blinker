@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tf" format="1">
+  <advance width="500.0"/>
+  <outline>
+    <contour>
+      <point x="483.0" y="423.0" type="line"/>
+      <point x="483.0" y="628.0" type="line"/>
+      <point x="26.0" y="628.0" type="line"/>
+      <point x="26.0" y="423.0" type="line"/>
+      <point x="239.0" y="423.0" type="line"/>
+      <point x="4.0" y="0.0" type="line"/>
+      <point x="261.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="385"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="335" y="558" type="line"/>
+      <point x="335" y="653" type="line"/>
+      <point x="232" y="653" type="line"/>
+      <point x="232" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="558" type="line"/>
+      <point x="154" y="653" type="line"/>
+      <point x="50" y="653" type="line"/>
+      <point x="50" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>148</integer>
+          <key>y</key>
+          <integer>581</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

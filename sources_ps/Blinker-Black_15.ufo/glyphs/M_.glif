@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="739.0"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="713.0" y="0.0" type="line"/>
+      <point x="713.0" y="627.0" type="line"/>
+      <point x="449.0" y="627.0" type="line"/>
+      <point x="372.0" y="396.0" type="line"/>
+      <point x="300.0" y="627.0" type="line"/>
+      <point x="26.0" y="627.0" type="line"/>
+      <point x="26.0" y="0.0" type="line"/>
+      <point x="238.0" y="0.0" type="line"/>
+      <point x="238.0" y="274.0" type="line"/>
+      <point x="281.0" y="115.0" type="line"/>
+      <point x="453.0" y="115.0" type="line"/>
+      <point x="501.0" y="275.0" type="line"/>
+      <point x="501.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

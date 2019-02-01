@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2077" format="1">
+  <advance width="289.0"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="268.0" y="570.0" type="line"/>
+      <point x="268.0" y="627.0" type="line"/>
+      <point x="26.0" y="627.0" type="line"/>
+      <point x="26.0" y="570.0" type="line"/>
+      <point x="199.0" y="570.0" type="line"/>
+      <point x="27.0" y="270.0" type="line"/>
+      <point x="99.0" y="270.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 20:05:04 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

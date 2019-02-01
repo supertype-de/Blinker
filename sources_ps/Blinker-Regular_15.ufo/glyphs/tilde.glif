@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="395.0"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="345.0" y="684.0" type="curve"/>
+      <point x="289.0" y="684.0" type="line"/>
+      <point x="289.0" y="649.0"/>
+      <point x="284.0" y="618.0"/>
+      <point x="259.0" y="618.0" type="curve"/>
+      <point x="224.0" y="618.0"/>
+      <point x="193.0" y="688.0"/>
+      <point x="131.0" y="688.0" type="curve"/>
+      <point x="68.0" y="688.0"/>
+      <point x="50.0" y="622.0"/>
+      <point x="50.0" y="564.0" type="curve"/>
+      <point x="106.0" y="564.0" type="line"/>
+      <point x="106.0" y="597.0"/>
+      <point x="111.0" y="630.0"/>
+      <point x="138.0" y="630.0" type="curve"/>
+      <point x="173.0" y="630.0"/>
+      <point x="203.0" y="560.0"/>
+      <point x="265.0" y="560.0" type="curve"/>
+      <point x="328.0" y="560.0"/>
+      <point x="345.0" y="626.0"/>
+    </contour>
+    <contour>
+      <point x="198" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>161</integer>
+          <key>y</key>
+          <integer>609</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>198</integer>
+          <key>y</key>
+          <integer>624</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

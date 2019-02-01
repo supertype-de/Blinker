@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf" format="1">
+  <advance width="500.0"/>
+  <outline>
+    <contour>
+      <point x="251.0" y="560.0" type="curve"/>
+      <point x="358.0" y="560.0"/>
+      <point x="385.0" y="514.1869918699188"/>
+      <point x="385.0" y="315.0" type="curve"/>
+      <point x="385.0" y="123.0"/>
+      <point x="355.0" y="72.0"/>
+      <point x="251.0" y="72.0" type="curve"/>
+      <point x="142.0" y="72.0"/>
+      <point x="116.0" y="118.0"/>
+      <point x="116.0" y="315.0" type="curve"/>
+      <point x="116.0" y="508.2113821138211"/>
+      <point x="146.0" y="560.0"/>
+    </contour>
+    <contour>
+      <point x="251.0" y="-8.0" type="curve"/>
+      <point x="408.0" y="-8.0"/>
+      <point x="471.0" y="67.0"/>
+      <point x="471.0" y="315.0" type="curve"/>
+      <point x="471.0" y="570.0"/>
+      <point x="422.0" y="638.0"/>
+      <point x="251.0" y="638.0" type="curve"/>
+      <point x="93.0" y="638.0"/>
+      <point x="30.0" y="563.0"/>
+      <point x="30.0" y="315.0" type="curve"/>
+      <point x="30.0" y="60.0"/>
+      <point x="80.0" y="-8.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>268</integer>
+          <key>y</key>
+          <integer>445</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>2972</integer>
+          <key>y</key>
+          <integer>207</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>212</integer>
+          <key>y</key>
+          <integer>246</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>8</integer>
+          <key>y</key>
+          <integer>252</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

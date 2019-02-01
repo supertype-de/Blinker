@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="547.0"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="21.0" y="18.0" type="line"/>
+      <point x="241.0" y="4.0" type="line"/>
+      <point x="241.0" y="665.0" type="line"/>
+      <point x="21.0" y="665.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="189.0" y="271.0" type="line"/>
+      <point x="213.0" y="278.0"/>
+      <point x="237.0" y="306.0"/>
+      <point x="279.0" y="306.0" type="curve"/>
+      <point x="302.0" y="306.0"/>
+      <point x="315.0" y="295.0"/>
+      <point x="315.0" y="252.0" type="curve"/>
+      <point x="315.0" y="204.0"/>
+      <point x="303.0" y="192.0"/>
+      <point x="278.0" y="192.0" type="curve"/>
+      <point x="216.0" y="192.0"/>
+      <point x="189.0" y="212.0"/>
+      <point x="179.0" y="223.0" type="curve"/>
+      <point x="21.0" y="18.0" type="line"/>
+      <point x="89.0" y="-1.0"/>
+      <point x="181.0" y="-12.0"/>
+      <point x="300.0" y="-12.0" type="curve"/>
+      <point x="461.0" y="-12.0"/>
+      <point x="535.0" y="72.0"/>
+      <point x="535.0" y="252.0" type="curve"/>
+      <point x="535.0" y="433.0"/>
+      <point x="490.0" y="504.0"/>
+      <point x="362.0" y="504.0" type="curve"/>
+      <point x="279.0" y="504.0"/>
+      <point x="203.0" y="456.0"/>
+      <point x="189.0" y="446.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

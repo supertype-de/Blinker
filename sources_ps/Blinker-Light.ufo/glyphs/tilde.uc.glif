@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.uc" format="1">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="336" y="661" type="curve"/>
+      <point x="307" y="661" type="line"/>
+      <point x="307" y="633"/>
+      <point x="297" y="594"/>
+      <point x="258" y="594" type="curve"/>
+      <point x="215" y="594"/>
+      <point x="190" y="665"/>
+      <point x="130" y="665" type="curve"/>
+      <point x="69" y="665"/>
+      <point x="50" y="614"/>
+      <point x="50" y="569" type="curve"/>
+      <point x="79" y="569" type="line"/>
+      <point x="79" y="595"/>
+      <point x="87" y="636"/>
+      <point x="132" y="636" type="curve"/>
+      <point x="176" y="636"/>
+      <point x="200" y="565"/>
+      <point x="260" y="565" type="curve"/>
+      <point x="319" y="565"/>
+      <point x="336" y="616"/>
+    </contour>
+    <contour>
+      <point x="194" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>161</integer>
+          <key>y</key>
+          <integer>609</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>192</integer>
+          <key>y</key>
+          <integer>615</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

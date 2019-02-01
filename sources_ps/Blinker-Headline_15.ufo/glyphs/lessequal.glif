@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="500.0"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="427.0" y="452.0" type="line"/>
+      <point x="427.0" y="623.0" type="line"/>
+      <point x="73.0" y="346.0" type="line"/>
+      <point x="146.0" y="251.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="427.0" y="205.0" type="line"/>
+      <point x="427.0" y="346.0" type="line"/>
+      <point x="73.0" y="346.0" type="line"/>
+      <point x="73.0" y="205.0" type="line"/>
+    </contour>
+    <component base="minus" yOffset="-244.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>27</integer>
+          <key>y</key>
+          <integer>181</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

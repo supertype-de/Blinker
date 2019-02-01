@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="196"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="116" y="494" type="line"/>
+      <point x="80" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="618" type="line"/>
+      <point x="118" y="618" type="line"/>
+      <point x="118" y="664" type="line"/>
+      <point x="78" y="664" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>1481</integer>
+          <key>y</key>
+          <integer>844</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>101</integer>
+          <key>y</key>
+          <integer>247</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

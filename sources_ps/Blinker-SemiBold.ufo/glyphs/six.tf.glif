@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tf" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="37" y="297" type="curve"/>
+      <point x="37" y="69"/>
+      <point x="96" y="-9"/>
+      <point x="263" y="-9" type="curve"/>
+      <point x="396" y="-9"/>
+      <point x="475" y="73"/>
+      <point x="475" y="212" type="curve"/>
+      <point x="475" y="349"/>
+      <point x="420" y="410"/>
+      <point x="311" y="410" type="curve"/>
+      <point x="231" y="410"/>
+      <point x="186" y="386"/>
+      <point x="148" y="364" type="curve"/>
+      <point x="148" y="275" type="line"/>
+      <point x="174" y="293"/>
+      <point x="222" y="310"/>
+      <point x="267" y="310" type="curve"/>
+      <point x="333" y="310"/>
+      <point x="359" y="289"/>
+      <point x="359" y="207" type="curve"/>
+      <point x="359" y="136"/>
+      <point x="326" y="99"/>
+      <point x="260" y="99" type="curve"/>
+      <point x="178" y="99"/>
+      <point x="157" y="141"/>
+      <point x="157" y="287" type="curve"/>
+      <point x="157" y="475"/>
+      <point x="190" y="533"/>
+      <point x="317" y="533" type="curve"/>
+      <point x="359" y="533"/>
+      <point x="392" y="530"/>
+      <point x="412" y="528" type="curve"/>
+      <point x="412" y="630" type="line"/>
+      <point x="395" y="635"/>
+      <point x="352" y="638"/>
+      <point x="317" y="638" type="curve"/>
+      <point x="119" y="638"/>
+      <point x="37" y="532"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.uc" format="1">
+  <advance width="383.0"/>
+  <outline>
+    <contour>
+      <point x="346.0" y="535.0" type="line"/>
+      <point x="346.0" y="640.0" type="line"/>
+      <point x="199.0" y="640.0" type="line"/>
+      <point x="199.0" y="535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.0" y="535.0" type="line"/>
+      <point x="182.0" y="640.0" type="line"/>
+      <point x="36.0" y="640.0" type="line"/>
+      <point x="36.0" y="535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

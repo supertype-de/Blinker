@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="291.0"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="254.0" y="535.0" type="line"/>
+      <point x="254.0" y="635.0" type="line"/>
+      <point x="36.0" y="635.0" type="line"/>
+      <point x="36.0" y="535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>145</integer>
+          <key>y</key>
+          <integer>535</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

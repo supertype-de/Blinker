@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="1">
+  <advance width="636"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="158" y="604" type="curve"/>
+      <point x="222" y="604"/>
+      <point x="245" y="571"/>
+      <point x="245" y="475" type="curve"/>
+      <point x="245" y="381"/>
+      <point x="222" y="348"/>
+      <point x="158" y="348" type="curve"/>
+      <point x="95" y="348"/>
+      <point x="72" y="381"/>
+      <point x="72" y="475" type="curve"/>
+      <point x="72" y="571"/>
+      <point x="95" y="604"/>
+    </contour>
+    <contour>
+      <point x="158" y="320" type="curve"/>
+      <point x="244" y="320"/>
+      <point x="276" y="362"/>
+      <point x="276" y="475" type="curve"/>
+      <point x="276" y="590"/>
+      <point x="244" y="631"/>
+      <point x="158" y="631" type="curve"/>
+      <point x="73" y="631"/>
+      <point x="41" y="590"/>
+      <point x="41" y="475" type="curve"/>
+      <point x="41" y="362"/>
+      <point x="73" y="320"/>
+    </contour>
+    <contour>
+      <point x="477" y="281" type="curve"/>
+      <point x="541" y="281"/>
+      <point x="564" y="247"/>
+      <point x="564" y="152" type="curve"/>
+      <point x="564" y="58"/>
+      <point x="541" y="24"/>
+      <point x="477" y="24" type="curve"/>
+      <point x="413" y="24"/>
+      <point x="390" y="58"/>
+      <point x="390" y="152" type="curve"/>
+      <point x="390" y="247"/>
+      <point x="413" y="281"/>
+    </contour>
+    <contour>
+      <point x="477" y="-3" type="curve"/>
+      <point x="563" y="-3"/>
+      <point x="594" y="38"/>
+      <point x="594" y="152" type="curve"/>
+      <point x="594" y="266"/>
+      <point x="563" y="308"/>
+      <point x="477" y="308" type="curve"/>
+      <point x="391" y="308"/>
+      <point x="360" y="266"/>
+      <point x="360" y="152" type="curve"/>
+      <point x="360" y="38"/>
+      <point x="391" y="-3"/>
+    </contour>
+    <component base="fraction" xOffset="250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-19 12:46:41 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

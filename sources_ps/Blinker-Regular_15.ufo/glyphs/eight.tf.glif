@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.tf" format="1">
+  <advance width="500.0"/>
+  <outline>
+    <contour>
+      <point x="249.0" y="-8.0" type="curve"/>
+      <point x="393.0" y="-8.0"/>
+      <point x="457.0" y="47.0"/>
+      <point x="457.0" y="168.0" type="curve"/>
+      <point x="457.0" y="253.0"/>
+      <point x="415.0" y="310.0"/>
+      <point x="338.0" y="323.0" type="curve"/>
+      <point x="413.0" y="339.0"/>
+      <point x="446.0" y="394.0"/>
+      <point x="446.0" y="477.0" type="curve"/>
+      <point x="446.0" y="589.0"/>
+      <point x="389.0" y="638.0"/>
+      <point x="249.0" y="638.0" type="curve"/>
+      <point x="115.0" y="638.0"/>
+      <point x="55.0" y="585.0"/>
+      <point x="55.0" y="474.0" type="curve"/>
+      <point x="54.0" y="394.0"/>
+      <point x="87.0" y="338.0"/>
+      <point x="163.0" y="323.0" type="curve"/>
+      <point x="83.0" y="309.0"/>
+      <point x="44.0" y="247.0"/>
+      <point x="44.0" y="163.0" type="curve"/>
+      <point x="44.0" y="43.0"/>
+      <point x="104.0" y="-8.0"/>
+    </contour>
+    <contour>
+      <point x="249.0" y="563.0" type="curve"/>
+      <point x="335.0" y="563.0"/>
+      <point x="370.0" y="532.6078431372549"/>
+      <point x="370.0" y="463.0" type="curve"/>
+      <point x="370.0" y="397.2072072072072"/>
+      <point x="343.0" y="354.0"/>
+      <point x="249.0" y="354.0" type="curve"/>
+      <point x="157.0" y="354.0"/>
+      <point x="131.0" y="397.2"/>
+      <point x="131.0" y="462.0" type="curve"/>
+      <point x="131.0" y="532.6019417475728"/>
+      <point x="165.0" y="563.0"/>
+    </contour>
+    <contour>
+      <point x="249.0" y="285.0" type="curve"/>
+      <point x="339.0" y="285.0"/>
+      <point x="378.0" y="252.61111111111111"/>
+      <point x="378.0" y="179.0" type="curve"/>
+      <point x="378.0" y="102.4054054054054"/>
+      <point x="339.0" y="70.0"/>
+      <point x="249.0" y="70.0" type="curve"/>
+      <point x="161.0" y="70.0"/>
+      <point x="124.0" y="101.40186915887851"/>
+      <point x="124.0" y="175.0" type="curve"/>
+      <point x="124.0" y="251.60714285714283"/>
+      <point x="161.0" y="285.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>255</integer>
+          <key>y</key>
+          <integer>318</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

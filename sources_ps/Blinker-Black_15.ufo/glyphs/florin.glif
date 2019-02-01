@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="459.0"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="448.0" y="626.0" type="line"/>
+      <point x="433.0" y="630.0"/>
+      <point x="381.0" y="638.0"/>
+      <point x="336.0" y="638.0" type="curve"/>
+      <point x="198.0" y="638.0"/>
+      <point x="137.0" y="592.0"/>
+      <point x="115.0" y="461.0" type="curve" smooth="yes"/>
+      <point x="13.0" y="-152.0" type="line"/>
+      <point x="242.0" y="-152.0" type="line"/>
+      <point x="334.0" y="401.0" type="line" smooth="yes"/>
+      <point x="339.0" y="429.0"/>
+      <point x="353.0" y="439.0"/>
+      <point x="382.0" y="439.0" type="curve"/>
+      <point x="403.0" y="439.0"/>
+      <point x="422.0" y="437.0"/>
+      <point x="448.0" y="435.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="16.0" y="273.0" type="line"/>
+      <point x="427.0" y="273.0" type="line"/>
+      <point x="427.0" y="385.0" type="line"/>
+      <point x="16.0" y="385.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

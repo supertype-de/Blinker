@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="10" maximum="250" minimum="10" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="Blinker" filename="Blinker-Thin_15.ufo" stylename="Thin">
+            <location>
+                <dimension name="weight" xvalue="20" />
+            </location>
+        </source>
+        <source familyname="Blinker" filename="Blinker-Regular_15.ufo" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="82" />
+            </location>
+        </source>
+        <source familyname="Blinker" filename="Blinker-Bold_15.ufo" stylename="Bold">
+            <info mute="1" />
+            <kerning mute="1" />
+            <location>
+                <dimension name="weight" xvalue="150" />
+            </location>
+        </source>
+        <source familyname="Blinker" filename="Blinker-Black_15.ufo" stylename="Black">
+            <location>
+                <dimension name="weight" xvalue="220" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" postscriptfontname="Blinker-Light" stylename="Light">
+            <location>
+                <dimension name="weight" xvalue="36" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Blinker" filename="instances/Blinker-SemiLight.ufo" postscriptfontname="Blinker-SemiLight" stylename="SemiLight">
+            <location>
+                <dimension name="weight" xvalue="62" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Blinker" filename="instances/Blinker-SemiBold.ufo" postscriptfontname="Blinker-SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="weight" xvalue="116" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Blinker" filename="instances/Blinker-ExtraBold.ufo" postscriptfontname="Blinker-ExtraBold" stylename="ExtraBold">
+            <location>
+                <dimension name="weight" xvalue="180" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

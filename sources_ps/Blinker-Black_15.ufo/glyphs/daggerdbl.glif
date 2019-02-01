@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="339.0"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="147.0" y="525.0" type="line"/>
+      <point x="147.0" y="433.0" type="line"/>
+      <point x="322.0" y="423.0" type="line"/>
+      <point x="322.0" y="535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="222.0" y="233.0" type="line"/>
+      <point x="222.0" y="478.0" type="line"/>
+      <point x="120.0" y="478.0" type="line"/>
+      <point x="120.0" y="233.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.0" y="434.0" type="line"/>
+      <point x="192.0" y="526.0" type="line"/>
+      <point x="17.0" y="535.0" type="line"/>
+      <point x="17.0" y="423.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="120.0" y="462.0" type="line"/>
+      <point x="222.0" y="462.0" type="line"/>
+      <point x="231.0" y="627.0" type="line"/>
+      <point x="109.0" y="627.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.0" y="221.0" type="line"/>
+      <point x="192.0" y="312.0" type="line"/>
+      <point x="17.0" y="322.0" type="line"/>
+      <point x="17.0" y="210.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.0" y="311.0" type="line"/>
+      <point x="147.0" y="219.0" type="line"/>
+      <point x="322.0" y="210.0" type="line"/>
+      <point x="322.0" y="322.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="220.0" y="283.0" type="line"/>
+      <point x="119.0" y="283.0" type="line"/>
+      <point x="109.0" y="118.0" type="line"/>
+      <point x="231.0" y="118.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

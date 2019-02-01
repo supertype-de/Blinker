@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="658.0"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="381.0" y="246.0" type="line"/>
+      <point x="381.0" y="394.0" type="line"/>
+      <point x="9.0" y="394.0" type="line"/>
+      <point x="9.0" y="246.0" type="line"/>
+    </contour>
+    <component base="D" xOffset="53.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="678.0"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="652.0" y="468.0" type="line"/>
+      <point x="652.0" y="525.0" type="line"/>
+      <point x="26.0" y="525.0" type="line"/>
+      <point x="26.0" y="468.0" type="line"/>
+    </contour>
+    <component base="H" xOffset="18.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

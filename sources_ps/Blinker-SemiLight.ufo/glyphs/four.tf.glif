@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tf" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="471" y="173" type="line"/>
+      <point x="471" y="229" type="line"/>
+      <point x="385" y="229" type="line"/>
+      <point x="385" y="518" type="line"/>
+      <point x="321" y="518" type="line"/>
+      <point x="321" y="229" type="line"/>
+      <point x="104" y="229" type="line"/>
+      <point x="175" y="628" type="line"/>
+      <point x="113" y="628" type="line"/>
+      <point x="39" y="229" type="line"/>
+      <point x="39" y="173" type="line"/>
+      <point x="321" y="173" type="line"/>
+      <point x="321" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="173" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>-6.259</real>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>118</integer>
+          <key>y</key>
+          <integer>219</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

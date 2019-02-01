@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.uc" format="1">
+  <advance width="335"/>
+  <outline>
+    <contour>
+      <point x="283" y="674" type="line"/>
+      <point x="152" y="674" type="line"/>
+      <point x="50" y="558" type="line"/>
+      <point x="146" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>135</integer>
+          <key>y</key>
+          <integer>559</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

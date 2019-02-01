@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="363.0"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="354.0" y="0.0" type="line"/>
+      <point x="354.0" y="193.0" type="line"/>
+      <point x="210.0" y="193.0" type="line"/>
+      <point x="210.0" y="625.0" type="line"/>
+      <point x="17.0" y="625.0" type="line"/>
+      <point x="17.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="114.0" y="637" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="236.0" y="625" type="move" name="caronalt"/>
+    </contour>
+    <contour>
+      <point x="192.0" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
