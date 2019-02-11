@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="538"/>
+  <unicode hex="00F8"/>
+  <guideline x="519" y="226" angle="90.0" identifier="DhwTW0iOnd"/>
+  <anchor x="269.0" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="24.0" y="-24.0" type="line"/>
+      <point x="106.0" y="-81.0" type="line"/>
+      <point x="187.0" y="37.0" type="line"/>
+      <point x="222.0" y="96.0" type="line"/>
+      <point x="395.0" y="348.0" type="line"/>
+      <point x="434.0" y="396.0" type="line"/>
+      <point x="516.0" y="516.0" type="line"/>
+      <point x="434.0" y="572.0" type="line"/>
+      <point x="360.0" y="464.0" type="line"/>
+      <point x="336.0" y="422.0" type="line"/>
+      <point x="147.0" y="148.0" type="line"/>
+      <point x="95.0" y="80.0" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.DhwTW0iOnd</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.2,0.8,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

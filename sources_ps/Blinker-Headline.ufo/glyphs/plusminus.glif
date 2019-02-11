@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="500"/>
+  <unicode hex="00B1"/>
+  <guideline x="27" y="254" angle="90.0" identifier="tuIuM3KVeB"/>
+  <guideline x="381" y="246" angle="90.0" identifier="ysTH8Bi1VZ"/>
+  <outline>
+    <contour>
+      <point x="427.0" y="311.0" type="line"/>
+      <point x="427.0" y="467.0" type="line"/>
+      <point x="73.0" y="467.0" type="line"/>
+      <point x="73.0" y="311.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="331.0" y="579.0" type="line"/>
+      <point x="171.0" y="579.0" type="line"/>
+      <point x="171.0" y="197.0" type="line"/>
+      <point x="331.0" y="197.0" type="line"/>
+    </contour>
+    <component base="minus" yOffset="-244"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.tuIuM3KVeB</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.ysTH8Bi1VZ</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

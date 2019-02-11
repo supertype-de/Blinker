@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="291"/>
+  <unicode hex="007D"/>
+  <outline>
+    <component base="braceleft" xScale="-1" xOffset="291"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

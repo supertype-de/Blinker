@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="190"/>
+  <unicode hex="006C"/>
+  <anchor x="95.0" y="680" name="top"/>
+  <anchor x="95.0" y="0" name="bottom"/>
+  <anchor x="195.0" y="665" name="caronalt"/>
+  <outline>
+    <contour>
+      <point x="105.0" y="0.0" type="line"/>
+      <point x="105.0" y="665.0" type="line"/>
+      <point x="85.0" y="665.0" type="line"/>
+      <point x="85.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

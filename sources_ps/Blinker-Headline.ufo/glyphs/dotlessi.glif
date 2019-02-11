@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="215"/>
+  <unicode hex="0131"/>
+  <anchor x="107.0" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="14.0" y="0.0" type="line"/>
+      <point x="201.0" y="0.0" type="line"/>
+      <point x="201.0" y="494.0" type="line"/>
+      <point x="14.0" y="494.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2,0.8,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

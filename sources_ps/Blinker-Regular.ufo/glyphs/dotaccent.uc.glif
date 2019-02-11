@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.uc" format="2">
+  <advance width="200"/>
+  <guideline x="119" y="586" angle="90" name="mid" identifier="nVoOvRgT3N"/>
+  <anchor x="101.0" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="564.0" type="line"/>
+      <point x="140.0" y="564.0" type="line"/>
+      <point x="140.0" y="636.0" type="line"/>
+      <point x="60.0" y="636.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.nVoOvRgT3N</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

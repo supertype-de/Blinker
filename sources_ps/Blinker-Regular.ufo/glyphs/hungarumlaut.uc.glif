@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.uc" format="2">
+  <advance width="486"/>
+  <guideline x="247" y="634" angle="90" name="mid" identifier="CjZoWIQn0p"/>
+  <anchor x="210.0" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="251.0" y="676.0" type="line"/>
+      <point x="155.0" y="676.0" type="line"/>
+      <point x="55.0" y="564.0" type="line"/>
+      <point x="127.0" y="564.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="428.0" y="676.0" type="line"/>
+      <point x="333.0" y="676.0" type="line"/>
+      <point x="232.0" y="564.0" type="line"/>
+      <point x="305.0" y="564.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.CjZoWIQn0p</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

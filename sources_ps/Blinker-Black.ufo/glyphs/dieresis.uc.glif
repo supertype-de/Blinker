@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.uc" format="2">
+  <advance width="470"/>
+  <guideline x="208.0" y="0.0" angle="90.0" name="mid" identifier="YiibEmiZH9"/>
+  <anchor x="236" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="420.0" y="535.0" type="line"/>
+      <point x="420.0" y="677.0" type="line"/>
+      <point x="246.0" y="677.0" type="line"/>
+      <point x="246.0" y="535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.0" y="535.0" type="line"/>
+      <point x="223.0" y="677.0" type="line"/>
+      <point x="50.0" y="677.0" type="line"/>
+      <point x="50.0" y="535.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.YiibEmiZH9</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

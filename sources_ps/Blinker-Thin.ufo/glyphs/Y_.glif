@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="563"/>
+  <unicode hex="0059"/>
+  <guideline x="293" y="451" angle="90.0" identifier="hcmUgh2Q61"/>
+  <anchor x="283.0" y="645.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="539.0" y="627.0" type="line"/>
+      <point x="516.0" y="627.0" type="line"/>
+      <point x="283.0" y="268.0" type="line"/>
+      <point x="43.0" y="627.0" type="line"/>
+      <point x="20.0" y="627.0" type="line"/>
+      <point x="272.0" y="248.0" type="line"/>
+      <point x="272.0" y="0.0" type="line"/>
+      <point x="293.0" y="0.0" type="line"/>
+      <point x="293.0" y="248.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.hcmUgh2Q61</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.tf" format="2">
+  <advance width="500"/>
+  <guideline x="255" y="318" angle="0" name="mid" identifier="Ja886CBD2G"/>
+  <outline>
+    <contour>
+      <point x="248.0" y="-6.0" type="curve"/>
+      <point x="383.0" y="-6.0"/>
+      <point x="446.0" y="48.0"/>
+      <point x="446.0" y="165.0" type="curve"/>
+      <point x="446.0" y="259.0"/>
+      <point x="395.0" y="315.0"/>
+      <point x="306.0" y="322.0" type="curve"/>
+      <point x="390.0" y="330.0"/>
+      <point x="434.0" y="385.0"/>
+      <point x="434.0" y="482.0" type="curve"/>
+      <point x="434.0" y="586.0"/>
+      <point x="376.0" y="638.0"/>
+      <point x="248.0" y="638.0" type="curve"/>
+      <point x="123.0" y="638.0"/>
+      <point x="65.0" y="584.0"/>
+      <point x="65.0" y="477.0" type="curve"/>
+      <point x="65.0" y="387.0"/>
+      <point x="107.0" y="328.0"/>
+      <point x="191.0" y="322.0" type="curve"/>
+      <point x="98.0" y="313.0"/>
+      <point x="54.0" y="247.0"/>
+      <point x="54.0" y="155.0" type="curve"/>
+      <point x="54.0" y="46.0"/>
+      <point x="114.0" y="-6.0"/>
+    </contour>
+    <contour>
+      <point x="248.0" y="618.0" type="curve"/>
+      <point x="365.0" y="618.0"/>
+      <point x="414.0" y="575.0"/>
+      <point x="414.0" y="481.0" type="curve"/>
+      <point x="414.0" y="398.0"/>
+      <point x="381.0" y="331.0"/>
+      <point x="247.0" y="331.0" type="curve"/>
+      <point x="117.0" y="331.0"/>
+      <point x="85.0" y="398.0"/>
+      <point x="85.0" y="478.0" type="curve"/>
+      <point x="85.0" y="574.0"/>
+      <point x="133.0" y="618.0"/>
+    </contour>
+    <contour>
+      <point x="247.0" y="310.0" type="curve"/>
+      <point x="369.0" y="310.0"/>
+      <point x="426.0" y="264.0"/>
+      <point x="426.0" y="164.0" type="curve"/>
+      <point x="426.0" y="61.0"/>
+      <point x="370.0" y="14.0"/>
+      <point x="248.0" y="14.0" type="curve"/>
+      <point x="129.0" y="14.0"/>
+      <point x="75.0" y="58.0"/>
+      <point x="75.0" y="155.0" type="curve"/>
+      <point x="75.0" y="261.0"/>
+      <point x="129.0" y="310.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.Ja886CBD2G</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

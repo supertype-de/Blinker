@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="439"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="423.0" y="627.0" type="line"/>
+      <point x="407.74246974306976" y="629.8607869231744"/>
+      <point x="366.0" y="637.0"/>
+      <point x="324.0" y="637.0" type="curve"/>
+      <point x="193.0" y="637.0"/>
+      <point x="144.0" y="587.0"/>
+      <point x="125.0" y="467.0" type="curve" smooth="yes"/>
+      <point x="26.0" y="-152.0" type="line"/>
+      <point x="181.0" y="-152.0" type="line"/>
+      <point x="278.0" y="441.0" type="line" smooth="yes"/>
+      <point x="285.84998922851827" y="488.9901403351684"/>
+      <point x="301.36842105263156" y="501.0"/>
+      <point x="352.0" y="501.0" type="curve"/>
+      <point x="378.0" y="501.0"/>
+      <point x="410.0" y="498.0"/>
+      <point x="423.0" y="496.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="26.0" y="288.0" type="line"/>
+      <point x="400.0" y="288.0" type="line"/>
+      <point x="400.0" y="380.0" type="line"/>
+      <point x="26.0" y="380.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

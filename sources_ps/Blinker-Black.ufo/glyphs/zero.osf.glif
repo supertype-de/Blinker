@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.osf" format="2">
+  <advance width="531"/>
+  <guideline x="268.0" y="0.0" angle="90.0" identifier="o4IEOj5H4W"/>
+  <guideline x="2972.0" y="0.0" angle="90.0" identifier="mDmrqrAznw"/>
+  <guideline x="0.0" y="246.0" angle="0.0" identifier="mgWXBZqfJR"/>
+  <outline>
+    <contour>
+      <point x="266.0" y="306.0" type="curve"/>
+      <point x="296.0" y="306.0"/>
+      <point x="304.0" y="293.0"/>
+      <point x="304.0" y="246.0" type="curve"/>
+      <point x="304.0" y="202.0"/>
+      <point x="296.0" y="190.0"/>
+      <point x="266.0" y="190.0" type="curve"/>
+      <point x="235.0" y="190.0"/>
+      <point x="227.0" y="202.0"/>
+      <point x="227.0" y="246.0" type="curve"/>
+      <point x="227.0" y="293.0"/>
+      <point x="235.0" y="306.0"/>
+    </contour>
+    <contour>
+      <point x="266.0" y="-12.0" type="curve"/>
+      <point x="439.0" y="-12.0"/>
+      <point x="516.0" y="67.0"/>
+      <point x="516.0" y="246.0" type="curve"/>
+      <point x="516.0" y="425.0"/>
+      <point x="439.0" y="504.0"/>
+      <point x="266.0" y="504.0" type="curve"/>
+      <point x="92.0" y="504.0"/>
+      <point x="15.0" y="425.0"/>
+      <point x="15.0" y="246.0" type="curve"/>
+      <point x="15.0" y="67.0"/>
+      <point x="92.0" y="-12.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.mDmrqrAznw</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.mgWXBZqfJR</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.o4IEOj5H4W</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek.alt" format="2">
+  <advance width="327"/>
+  <anchor x="244" y="43" name="_ogonekalt"/>
+  <outline>
+    <contour>
+      <point x="244.0" y="43.0" type="curve"/>
+      <point x="231.0" y="56.0" type="line"/>
+      <point x="151.0" y="26.0"/>
+      <point x="68.0" y="-28.76258992805755"/>
+      <point x="68.0" y="-116.0" type="curve"/>
+      <point x="68.0" y="-157.0"/>
+      <point x="95.0" y="-195.0"/>
+      <point x="161.0" y="-195.0" type="curve"/>
+      <point x="188.0" y="-195.0"/>
+      <point x="216.0" y="-190.0"/>
+      <point x="237.0" y="-184.0" type="curve"/>
+      <point x="237.0" y="-164.0" type="line"/>
+      <point x="219.0" y="-170.0"/>
+      <point x="188.0" y="-176.0"/>
+      <point x="161.0" y="-176.0" type="curve"/>
+      <point x="114.0" y="-176.0"/>
+      <point x="88.0" y="-151.0"/>
+      <point x="88.0" y="-114.0" type="curve"/>
+      <point x="88.0" y="-34.73170731707317"/>
+      <point x="176.0" y="17.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

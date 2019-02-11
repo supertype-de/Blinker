@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B9" format="2">
+  <advance width="244"/>
+  <unicode hex="00B9"/>
+  <guideline x="485" y="163" angle="90" identifier="4PNLprsLts"/>
+  <guideline x="3676" y="-115" angle="90" identifier="dOWx8EQA3X"/>
+  <guideline x="1442" y="222" angle="0" identifier="BWHsZ3BLEG"/>
+  <guideline x="1551" y="333" angle="90" identifier="ggweEsUHRN"/>
+  <guideline x="987" y="689" angle="90" identifier="DLpb831rSg"/>
+  <guideline x="2175" y="-145" angle="90" identifier="CBjyHVpFZT"/>
+  <guideline x="1093" y="-666" angle="0" identifier="zEJm79B9bD"/>
+  <guideline x="221" y="1020" angle="0" identifier="I2vNgb2ZAC"/>
+  <outline>
+    <contour>
+      <point x="98.0" y="270.0" type="line"/>
+      <point x="209.0" y="270.0" type="line"/>
+      <point x="209.0" y="633.0" type="line"/>
+      <point x="98.0" y="598.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="9.0" y="518.0" type="line"/>
+      <point x="97.0" y="528.0" type="line"/>
+      <point x="209.0" y="633.0" type="line"/>
+      <point x="9.0" y="610.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 20:05:04 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.4PNLprsLts</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.BWHsZ3BLEG</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.CBjyHVpFZT</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.DLpb831rSg</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.I2vNgb2ZAC</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.dOWx8EQA3X</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.ggweEsUHRN</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.zEJm79B9bD</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="409"/>
+  <unicode hex="004A"/>
+  <guideline x="298.0" y="0.0" angle="90.0" name="mid" identifier="CigW7jAyfZ"/>
+  <anchor x="275.0" y="645" name="top"/>
+  <outline>
+    <contour>
+      <point x="160.0" y="627.0" type="line"/>
+      <point x="160.0" y="259.0" type="line"/>
+      <point x="160.0" y="218.0"/>
+      <point x="146.1095890410959" y="200.0"/>
+      <point x="82.0" y="200.0" type="curve"/>
+      <point x="48.4" y="200.0"/>
+      <point x="29.942153641493313" y="201.1670283723958"/>
+      <point x="12.0" y="204.0" type="curve"/>
+      <point x="12.0" y="-3.0" type="line"/>
+      <point x="32.0" y="-7.0"/>
+      <point x="65.0" y="-12.0"/>
+      <point x="122.0" y="-12.0" type="curve"/>
+      <point x="312.28195488721803" y="-12.0"/>
+      <point x="387.0" y="54.0"/>
+      <point x="387.0" y="239.0" type="curve"/>
+      <point x="387.0" y="627.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.CigW7jAyfZ</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

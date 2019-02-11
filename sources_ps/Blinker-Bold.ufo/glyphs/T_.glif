@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="521"/>
+  <unicode hex="0054"/>
+  <guideline x="248" y="0" angle="90" name="mid" identifier="oHT2vWL3rs"/>
+  <anchor x="261.0" y="0" name="bottom"/>
+  <anchor x="261.0" y="645" name="top"/>
+  <outline>
+    <contour>
+      <point x="509.0" y="487.0" type="line"/>
+      <point x="509.0" y="627.0" type="line"/>
+      <point x="12.0" y="627.0" type="line"/>
+      <point x="12.0" y="487.0" type="line"/>
+      <point x="183.0" y="487.0" type="line"/>
+      <point x="183.0" y="0.0" type="line"/>
+      <point x="338.0" y="0.0" type="line"/>
+      <point x="338.0" y="487.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.oHT2vWL3rs</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

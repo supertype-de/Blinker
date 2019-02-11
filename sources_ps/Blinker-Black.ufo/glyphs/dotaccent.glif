@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="322"/>
+  <unicode hex="02D9"/>
+  <guideline x="119.0" y="0.0" angle="90.0" name="mid" identifier="MQVf02jIq4"/>
+  <anchor x="164" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="530.0" type="line"/>
+      <point x="272.0" y="530.0" type="line"/>
+      <point x="272.0" y="687.0" type="line"/>
+      <point x="50.0" y="687.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.MQVf02jIq4</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

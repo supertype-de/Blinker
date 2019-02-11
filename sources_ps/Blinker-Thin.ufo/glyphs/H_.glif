@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="656"/>
+  <unicode hex="0048"/>
+  <guideline x="108" y="433" angle="0.0" name="mid" identifier="DgfYEkiRLl"/>
+  <guideline x="302" y="627" angle="90" name="mid" identifier="In2GKgSLfo"/>
+  <anchor x="328.0" y="645" name="top"/>
+  <outline>
+    <contour>
+      <point x="93.0" y="0.0" type="line"/>
+      <point x="114.0" y="0.0" type="line"/>
+      <point x="114.0" y="627.0" type="line"/>
+      <point x="93.0" y="627.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="542.0" y="0.0" type="line"/>
+      <point x="563.0" y="0.0" type="line"/>
+      <point x="563.0" y="627.0" type="line"/>
+      <point x="542.0" y="627.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="108.0" y="308.0" type="line"/>
+      <point x="556.0" y="308.0" type="line"/>
+      <point x="556.0" y="328.0" type="line"/>
+      <point x="108.0" y="328.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.DgfYEkiRLl</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.In2GKgSLfo</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

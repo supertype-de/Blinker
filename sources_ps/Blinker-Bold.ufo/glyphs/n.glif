@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="553"/>
+  <unicode hex="006E"/>
+  <guideline x="0.0" y="239.0" angle="0.0" identifier="g30mJRKTF7"/>
+  <guideline x="272.0" y="0.0" angle="90.0" name="mid" identifier="CrMYLsYktu"/>
+  <anchor x="278.0" y="530" name="top"/>
+  <anchor x="277.0" y="0" name="bottom"/>
+  <anchor x="-81.0" y="665" name="caronalt"/>
+  <outline>
+    <contour>
+      <point x="43.0" y="0.0" type="line"/>
+      <point x="193.0" y="0.0" type="line"/>
+      <point x="193.0" y="442.0" type="line"/>
+      <point x="179.0" y="442.0" type="line"/>
+      <point x="173.0" y="494.0" type="line"/>
+      <point x="43.0" y="494.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="165.0" y="326.0" type="line"/>
+      <point x="182.18867599323227" y="345.2108731689067"/>
+      <point x="229.56198347107437" y="369.0"/>
+      <point x="289.0" y="369.0" type="curve" smooth="yes"/>
+      <point x="334.8857142857143" y="369.0"/>
+      <point x="362.0" y="354.0"/>
+      <point x="362.0" y="322.0" type="curve" smooth="yes"/>
+      <point x="362.0" y="0.0" type="line"/>
+      <point x="512.0" y="0.0" type="line"/>
+      <point x="512.0" y="342.0" type="line" smooth="yes"/>
+      <point x="512.0" y="451.0"/>
+      <point x="450.92215568862275" y="504.0"/>
+      <point x="342.0" y="504.0" type="curve"/>
+      <point x="267.7413793103448" y="504.0"/>
+      <point x="215.0" y="484.0"/>
+      <point x="165.0" y="423.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.CrMYLsYktu</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.g30mJRKTF7</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

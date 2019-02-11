@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="262"/>
+  <unicode hex="0131"/>
+  <guideline x="117" y="494" angle="90" name="mid" identifier="kYCfujb8jH"/>
+  <anchor x="131.0" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="21.0" y="0.0" type="line"/>
+      <point x="241.0" y="0.0" type="line"/>
+      <point x="241.0" y="494.0" type="line"/>
+      <point x="21.0" y="494.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.kYCfujb8jH</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

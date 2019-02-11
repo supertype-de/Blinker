@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="257"/>
+  <unicode hex="2039"/>
+  <guideline x="220" y="409" angle="90.0" identifier="1TLmITY9Ag"/>
+  <outline>
+    <contour>
+      <point x="207.0" y="494.0" type="line"/>
+      <point x="186.0" y="494.0" type="line"/>
+      <point x="37.0" y="281.0" type="line"/>
+      <point x="55.0" y="276.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="186.0" y="64.0" type="line"/>
+      <point x="207.0" y="64.0" type="line"/>
+      <point x="55.0" y="287.0" type="line"/>
+      <point x="37.0" y="281.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.1TLmITY9Ag</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowright" format="2">
+  <advance width="677"/>
+  <unicode hex="2192"/>
+  <outline>
+    <component base="arrowup" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="17" yOffset="643"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data></data>
+      <key>public.markColor</key>
+      <string>1,0.3803,0,1</string>
+    </dict>
+  </lib>
+</glyph>

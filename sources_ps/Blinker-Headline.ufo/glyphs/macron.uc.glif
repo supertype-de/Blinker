@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.uc" format="2">
+  <advance width="291"/>
+  <anchor x="145" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="256.0" y="540.0" type="line"/>
+      <point x="256.0" y="629.0" type="line"/>
+      <point x="37.0" y="629.0" type="line"/>
+      <point x="37.0" y="540.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="575"/>
+  <unicode hex="0059"/>
+  <guideline x="293" y="451" angle="90.0" identifier="N3fwQDJRaK"/>
+  <anchor x="290.0" y="645" name="top"/>
+  <outline>
+    <contour>
+      <point x="564.0" y="627.0" type="line"/>
+      <point x="476.0" y="627.0" type="line"/>
+      <point x="290.0" y="314.0" type="line"/>
+      <point x="103.0" y="627.0" type="line"/>
+      <point x="7.0" y="627.0" type="line"/>
+      <point x="246.0" y="238.0" type="line"/>
+      <point x="246.0" y="0.0" type="line"/>
+      <point x="331.0" y="0.0" type="line"/>
+      <point x="331.0" y="238.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.N3fwQDJRaK</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

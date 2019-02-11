@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="379"/>
+  <unicode hex="003F"/>
+  <guideline x="438" y="203" angle="0" identifier="Pdf8mxG1cX"/>
+  <outline>
+    <contour>
+      <point x="368.0" y="495.0" type="curve" smooth="yes"/>
+      <point x="368.0" y="593.2328767123288"/>
+      <point x="289.6368715083799" y="637.0"/>
+      <point x="199.0" y="637.0" type="curve" smooth="yes"/>
+      <point x="120.05263157894737" y="637.0"/>
+      <point x="73.15520652211322" y="629.8289255854281"/>
+      <point x="19.0" y="609.0" type="curve"/>
+      <point x="19.0" y="423.0" type="line"/>
+      <point x="50.09902768861264" y="433.0319444156815"/>
+      <point x="113.26923076923077" y="446.0"/>
+      <point x="148.0" y="446.0" type="curve"/>
+      <point x="163.71428571428572" y="446.0"/>
+      <point x="170.0" y="439.0"/>
+      <point x="170.0" y="429.0" type="curve"/>
+      <point x="170.0" y="411.0"/>
+      <point x="134.53086960342966" y="391.7960302623607"/>
+      <point x="66.0" y="362.0" type="curve"/>
+      <point x="66.0" y="234.0" type="line"/>
+      <point x="265.0" y="234.0" type="line"/>
+      <point x="265.0" y="325.0" type="line"/>
+      <point x="332.0" y="370.0"/>
+      <point x="368.0" y="411.08974358974353"/>
+    </contour>
+    <contour>
+      <point x="278.0" y="0.0" type="line"/>
+      <point x="278.0" y="189.0" type="line"/>
+      <point x="53.0" y="189.0" type="line"/>
+      <point x="53.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Pdf8mxG1cX</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

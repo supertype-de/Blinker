@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.osf" format="2">
+  <advance width="517"/>
+  <outline>
+    <contour>
+      <point x="452.0" y="192.0" type="curve"/>
+      <point x="452.0" y="427.0"/>
+      <point x="393.0" y="504.0"/>
+      <point x="253.0" y="504.0" type="curve"/>
+      <point x="125.0" y="504.0"/>
+      <point x="48.0" y="429.0"/>
+      <point x="48.0" y="295.0" type="curve"/>
+      <point x="48.0" y="155.0"/>
+      <point x="112.0" y="103.0"/>
+      <point x="231.0" y="103.0" type="curve"/>
+      <point x="319.0" y="103.0"/>
+      <point x="386.0" y="135.0"/>
+      <point x="444.0" y="180.0" type="curve"/>
+      <point x="444.0" y="199.0" type="line"/>
+      <point x="381.0" y="152.0"/>
+      <point x="310.0" y="123.0"/>
+      <point x="240.0" y="123.0" type="curve"/>
+      <point x="121.0" y="123.0"/>
+      <point x="69.0" y="169.0"/>
+      <point x="69.0" y="295.0" type="curve"/>
+      <point x="69.0" y="415.0"/>
+      <point x="132.0" y="484.0"/>
+      <point x="253.0" y="484.0" type="curve"/>
+      <point x="383.0" y="484.0"/>
+      <point x="431.0" y="411.0"/>
+      <point x="431.0" y="192.0" type="curve"/>
+      <point x="431.0" y="-38.0"/>
+      <point x="380.0" y="-138.0"/>
+      <point x="196.0" y="-138.0" type="curve"/>
+      <point x="163.0" y="-138.0"/>
+      <point x="137.0" y="-135.0"/>
+      <point x="120.0" y="-132.0" type="curve"/>
+      <point x="120.0" y="-152.0" type="line"/>
+      <point x="134.0" y="-155.0"/>
+      <point x="166.0" y="-158.0"/>
+      <point x="196.0" y="-158.0" type="curve"/>
+      <point x="393.0" y="-158.0"/>
+      <point x="452.0" y="-49.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 20:40:45 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.uc" format="2">
+  <advance width="234"/>
+  <guideline x="135" y="559" angle="90" name="mid" identifier="JmTcvRKEDZ"/>
+  <anchor x="92.0" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="182.0" y="672.0" type="line"/>
+      <point x="148.0" y="672.0" type="line"/>
+      <point x="50.0" y="571.0" type="line"/>
+      <point x="72.0" y="571.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.JmTcvRKEDZ</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

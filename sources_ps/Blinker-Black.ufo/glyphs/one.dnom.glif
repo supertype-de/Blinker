@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="220"/>
+  <guideline x="485" y="163" angle="90" identifier="yz3XWoREze"/>
+  <guideline x="3676" y="-115" angle="90" identifier="JPBWjAXx7O"/>
+  <guideline x="1442" y="222" angle="0" identifier="ebNBagegYq"/>
+  <guideline x="1551" y="333" angle="90" identifier="gwpg4AV3Mf"/>
+  <guideline x="987" y="689" angle="90" identifier="iCIjl807C1"/>
+  <guideline x="2175" y="-145" angle="90" identifier="E0TA2QLYl4"/>
+  <guideline x="1093" y="-666" angle="0" identifier="OG5VbonM9A"/>
+  <guideline x="221" y="1020" angle="0" identifier="HDkYed7gsS"/>
+  <guideline x="151" y="222" angle="90.0" identifier="OnF56F2gsx"/>
+  <outline>
+    <component base="uni00B9" xOffset="-6" yOffset="-270"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 20:05:04 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.E0TA2QLYl4</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.HDkYed7gsS</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.JPBWjAXx7O</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.OG5VbonM9A</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.OnF56F2gsx</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.ebNBagegYq</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.gwpg4AV3Mf</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.iCIjl807C1</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.yz3XWoREze</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

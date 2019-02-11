@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="363"/>
+  <unicode hex="00AF"/>
+  <guideline x="177.0" y="0.0" angle="90.0" name="mid" identifier="VswSWMvKQb"/>
+  <guideline x="182" y="535" angle="90" name="mid" identifier="h09l6SuoOB"/>
+  <anchor x="182" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="313.0" y="535.0" type="line"/>
+      <point x="313.0" y="676.0" type="line"/>
+      <point x="50.0" y="676.0" type="line"/>
+      <point x="50.0" y="535.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.VswSWMvKQb</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.h09l6SuoOB</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

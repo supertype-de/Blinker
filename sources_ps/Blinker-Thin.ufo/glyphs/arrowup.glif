@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowup" format="2">
+  <advance width="677"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="652.0" y="452.0" type="line"/>
+      <point x="652.0" y="474.0" type="line"/>
+      <point x="337.0" y="646.0" type="line"/>
+      <point x="25.0" y="474.0" type="line"/>
+      <point x="25.0" y="452.0" type="line"/>
+      <point x="262.0" y="582.0" type="line" smooth="yes"/>
+      <point x="282.24955714626225" y="593.1073520211565"/>
+      <point x="312.8398625380483" y="608.8932416920322"/>
+      <point x="328.0" y="619.0" type="curve"/>
+      <point x="330.0" y="618.0" type="line"/>
+      <point x="328.0" y="592.0"/>
+      <point x="328.0" y="574.0"/>
+      <point x="328.0" y="519.0" type="curve" smooth="yes"/>
+      <point x="328.0" y="0.0" type="line"/>
+      <point x="348.0" y="0.0" type="line"/>
+      <point x="348.0" y="519.0" type="line" smooth="yes"/>
+      <point x="348.0" y="574.0"/>
+      <point x="348.0" y="592.0"/>
+      <point x="346.0" y="618.0" type="curve"/>
+      <point x="348.0" y="619.0" type="line"/>
+      <point x="363.16523331218065" y="608.8898444585462"/>
+      <point x="392.8857362765125" y="592.353559516889"/>
+      <point x="412.0" y="582.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data></data>
+      <key>public.markColor</key>
+      <string>1,0.3803,0,1</string>
+    </dict>
+  </lib>
+</glyph>

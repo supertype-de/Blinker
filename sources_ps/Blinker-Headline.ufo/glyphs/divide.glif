@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="500"/>
+  <unicode hex="00F7"/>
+  <guideline x="198" y="373" angle="90.0" identifier="kcQGQqwAw6"/>
+  <outline>
+    <component base="minus"/>
+    <component base="period" xScale="0.892400001526" yScale="0.942700000763" xOffset="162.18359998321398" yOffset="44"/>
+    <component base="period" xScale="0.892400001526" yScale="0.942700000763" xOffset="162.18359998321398" yOffset="439"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.kcQGQqwAw6</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

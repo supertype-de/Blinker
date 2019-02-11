@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="644"/>
+  <unicode hex="004F"/>
+  <anchor x="322.0" y="655.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="322.0" y="-10.0" type="curve"/>
+      <point x="530.0" y="-10.0"/>
+      <point x="617.0" y="86.0"/>
+      <point x="617.0" y="314.0" type="curve"/>
+      <point x="617.0" y="552.0"/>
+      <point x="540.0" y="637.0"/>
+      <point x="322.0" y="637.0" type="curve"/>
+      <point x="114.0" y="637.0"/>
+      <point x="27.0" y="541.0"/>
+      <point x="27.0" y="314.0" type="curve"/>
+      <point x="27.0" y="75.0"/>
+      <point x="104.0" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="322.0" y="135.0" type="curve"/>
+      <point x="217.0" y="135.0"/>
+      <point x="184.0" y="155.0"/>
+      <point x="184.0" y="314.0" type="curve"/>
+      <point x="184.0" y="476.5530726256983"/>
+      <point x="217.0" y="497.0"/>
+      <point x="322.0" y="497.0" type="curve"/>
+      <point x="427.0" y="497.0"/>
+      <point x="460.0" y="476.5530726256983"/>
+      <point x="460.0" y="314.0" type="curve"/>
+      <point x="460.0" y="155.0"/>
+      <point x="427.0" y="135.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

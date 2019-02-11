@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="541"/>
+  <unicode hex="0070"/>
+  <guideline x="303" y="247" angle="0" identifier="2XJb2nKDxR"/>
+  <outline>
+    <contour>
+      <point x="66.0" y="-152.0" type="line"/>
+      <point x="148.0" y="-152.0" type="line"/>
+      <point x="148.0" y="450.0" type="line"/>
+      <point x="142.0" y="450.0" type="line"/>
+      <point x="137.0" y="494.0" type="line"/>
+      <point x="66.0" y="494.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="131.0" y="377.0" type="line"/>
+      <point x="166.2641926711115" y="405.2113541368892"/>
+      <point x="216.0" y="430.0"/>
+      <point x="282.0" y="430.0" type="curve"/>
+      <point x="377.0" y="430.0"/>
+      <point x="417.0" y="395.0"/>
+      <point x="417.0" y="248.0" type="curve" smooth="yes"/>
+      <point x="417.0" y="101.0"/>
+      <point x="374.0" y="68.0"/>
+      <point x="259.0" y="68.0" type="curve"/>
+      <point x="195.0" y="68.0"/>
+      <point x="160.0" y="81.0"/>
+      <point x="132.0" y="96.0" type="curve"/>
+      <point x="112.0" y="36.0" type="line"/>
+      <point x="141.0" y="7.0"/>
+      <point x="196.0" y="-8.0"/>
+      <point x="269.0" y="-8.0" type="curve"/>
+      <point x="425.0" y="-8.0"/>
+      <point x="499.0" y="56.0"/>
+      <point x="499.0" y="248.0" type="curve" smooth="yes"/>
+      <point x="499.0" y="439.0"/>
+      <point x="438.0" y="504.0"/>
+      <point x="311.0" y="504.0" type="curve"/>
+      <point x="233.0" y="504.0"/>
+      <point x="163.67524110360898" y="477.608813147529"/>
+      <point x="120.0" y="425.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.2XJb2nKDxR</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

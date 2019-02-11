@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="453"/>
+  <unicode hex="02C6"/>
+  <guideline x="186" y="566" angle="90.0" identifier="Rf8BeVQ2fm"/>
+  <anchor x="226" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="292.0" y="551.0" type="line"/>
+      <point x="403.0" y="551.0" type="line"/>
+      <point x="292.0" y="682.0" type="line"/>
+      <point x="161.0" y="682.0" type="line"/>
+      <point x="50.0" y="551.0" type="line"/>
+      <point x="161.0" y="551.0" type="line"/>
+      <point x="226.0" y="609.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.Rf8BeVQ2fm</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

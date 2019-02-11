@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="520"/>
+  <unicode hex="0034"/>
+  <guideline x="118" y="219" angle="353.74096369487773" identifier="GvE47VFjlK"/>
+  <outline>
+    <contour>
+      <point x="485.0" y="187.0" type="line"/>
+      <point x="485.0" y="207.0" type="line"/>
+      <point x="382.0" y="207.0" type="line"/>
+      <point x="382.0" y="517.0" type="line"/>
+      <point x="361.0" y="517.0" type="line"/>
+      <point x="361.0" y="207.0" type="line"/>
+      <point x="69.0" y="207.0" type="line"/>
+      <point x="150.0" y="627.0" type="line"/>
+      <point x="129.0" y="627.0" type="line"/>
+      <point x="48.0" y="206.0" type="line"/>
+      <point x="48.0" y="187.0" type="line"/>
+      <point x="361.0" y="187.0" type="line"/>
+      <point x="361.0" y="0.0" type="line"/>
+      <point x="382.0" y="0.0" type="line"/>
+      <point x="382.0" y="187.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.GvE47VFjlK</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

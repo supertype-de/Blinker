@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="374"/>
+  <unicode hex="00AA"/>
+  <guideline x="219" y="172" angle="90.0" identifier="REx7GreYxf"/>
+  <guideline x="280" y="316" angle="0" identifier="CujiC79fpB"/>
+  <guideline x="28" y="461" angle="90.0" identifier="XDCqrtfv1d"/>
+  <outline>
+    <contour>
+      <point x="74.0" y="277.0" type="line"/>
+      <point x="294.0" y="277.0" type="line"/>
+      <point x="294.0" y="296.0" type="line"/>
+      <point x="74.0" y="296.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="71.0" y="435.0" type="curve"/>
+      <point x="71.0" y="378.0"/>
+      <point x="99.0" y="351.0"/>
+      <point x="160.0" y="351.0" type="curve"/>
+      <point x="202.0" y="351.0"/>
+      <point x="244.0" y="365.0"/>
+      <point x="274.0" y="387.0" type="curve"/>
+      <point x="274.0" y="405.0" type="line"/>
+      <point x="253.0" y="387.0"/>
+      <point x="206.0" y="370.0"/>
+      <point x="163.0" y="370.0" type="curve"/>
+      <point x="112.0" y="370.0"/>
+      <point x="91.0" y="390.0"/>
+      <point x="91.0" y="436.0" type="curve"/>
+      <point x="91.0" y="480.0"/>
+      <point x="117.0" y="495.0"/>
+      <point x="183.0" y="495.0" type="curve"/>
+      <point x="223.0" y="495.0"/>
+      <point x="253.0" y="491.0"/>
+      <point x="278.0" y="487.0" type="curve"/>
+      <point x="278.0" y="506.0" type="line"/>
+      <point x="258.0" y="509.0"/>
+      <point x="228.0" y="514.0"/>
+      <point x="182.0" y="514.0" type="curve"/>
+      <point x="106.0" y="514.0"/>
+      <point x="71.0" y="494.0"/>
+    </contour>
+    <contour>
+      <point x="275.0" y="355.0" type="line"/>
+      <point x="292.0" y="355.0" type="line"/>
+      <point x="292.0" y="539.0" type="line" smooth="yes"/>
+      <point x="292.0" y="593.0"/>
+      <point x="274.0" y="637.0"/>
+      <point x="189.0" y="637.0" type="curve"/>
+      <point x="151.0" y="637.0"/>
+      <point x="127.0" y="634.0"/>
+      <point x="100.0" y="628.0" type="curve"/>
+      <point x="100.0" y="608.0" type="line"/>
+      <point x="126.0" y="615.0"/>
+      <point x="148.0" y="618.0"/>
+      <point x="186.0" y="618.0" type="curve" smooth="yes"/>
+      <point x="264.0" y="618.0"/>
+      <point x="272.0" y="578.0"/>
+      <point x="272.0" y="538.0" type="curve" smooth="yes"/>
+      <point x="272.0" y="386.0" type="line"/>
+      <point x="274.0" y="386.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>a_left</key>
+      <integer>20</integer>
+      <key>a_right</key>
+      <integer>95</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-19 13:01:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.CujiC79fpB</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.REx7GreYxf</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.XDCqrtfv1d</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

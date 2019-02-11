@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="553"/>
+  <unicode hex="0068"/>
+  <guideline x="0.0" y="239.0" angle="0.0" identifier="mdUlyWD7Bn"/>
+  <guideline x="115" y="664" angle="90" name="mid" identifier="lOKu0DEvui"/>
+  <anchor x="118.0" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="43.0" y="0.0" type="line"/>
+      <point x="193.0" y="0.0" type="line"/>
+      <point x="193.0" y="665.0" type="line"/>
+      <point x="43.0" y="665.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="165.0" y="343.0" type="line"/>
+      <point x="179.24236077665955" y="351.1384918723769"/>
+      <point x="239.67175572519085" y="369.0"/>
+      <point x="299.0" y="369.0" type="curve" smooth="yes"/>
+      <point x="345.2" y="369.0"/>
+      <point x="362.0" y="354.0"/>
+      <point x="362.0" y="322.0" type="curve" smooth="yes"/>
+      <point x="362.0" y="0.0" type="line"/>
+      <point x="512.0" y="0.0" type="line"/>
+      <point x="512.0" y="342.0" type="line" smooth="yes"/>
+      <point x="512.0" y="451.0"/>
+      <point x="457.0121951219512" y="504.0"/>
+      <point x="345.0" y="504.0" type="curve" smooth="yes"/>
+      <point x="273.8135593220339" y="504.0"/>
+      <point x="204.44806047752024" y="468.3101957152063"/>
+      <point x="165.0" y="441.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.lOKu0DEvui</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.mdUlyWD7Bn</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

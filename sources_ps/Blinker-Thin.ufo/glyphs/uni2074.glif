@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2074" format="2">
+  <advance width="340"/>
+  <unicode hex="2074"/>
+  <guideline x="118" y="219" angle="353.741" identifier="egesvJkvb5"/>
+  <outline>
+    <contour>
+      <point x="308.0" y="374.0" type="line"/>
+      <point x="308.0" y="393.0" type="line"/>
+      <point x="248.0" y="393.0" type="line"/>
+      <point x="248.0" y="565.0" type="line"/>
+      <point x="227.0" y="565.0" type="line"/>
+      <point x="227.0" y="393.0" type="line"/>
+      <point x="60.0" y="393.0" type="line"/>
+      <point x="108.0" y="627.0" type="line"/>
+      <point x="88.0" y="627.0" type="line"/>
+      <point x="39.0" y="392.0" type="line"/>
+      <point x="39.0" y="374.0" type="line"/>
+      <point x="227.0" y="374.0" type="line"/>
+      <point x="227.0" y="270.0" type="line"/>
+      <point x="248.0" y="270.0" type="line"/>
+      <point x="248.0" y="374.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 20:05:04 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.egesvJkvb5</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

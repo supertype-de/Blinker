@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.osf" format="2">
+  <advance width="364"/>
+  <outline>
+    <contour>
+      <point x="351.0" y="0.0" type="line"/>
+      <point x="351.0" y="149.0" type="line"/>
+      <point x="214.0" y="149.0" type="line"/>
+      <point x="267.0" y="199.0" type="line" smooth="yes"/>
+      <point x="312.0" y="241.0"/>
+      <point x="342.0" y="284.0"/>
+      <point x="342.0" y="358.0" type="curve" smooth="yes"/>
+      <point x="342.0" y="447.0"/>
+      <point x="291.0" y="504.0"/>
+      <point x="191.0" y="504.0" type="curve"/>
+      <point x="125.0" y="504.0"/>
+      <point x="61.0" y="492.0"/>
+      <point x="29.0" y="481.0" type="curve"/>
+      <point x="29.0" y="323.0" type="line"/>
+      <point x="56.457673670287065" y="331.52134700112356"/>
+      <point x="105.0" y="340.0"/>
+      <point x="142.0" y="340.0" type="curve"/>
+      <point x="160.47826086956522" y="340.0"/>
+      <point x="167.0" y="331.0"/>
+      <point x="167.0" y="317.0" type="curve" smooth="yes"/>
+      <point x="167.0" y="302.4166666666667"/>
+      <point x="159.86637012618746" y="295.7569395197556"/>
+      <point x="145.0" y="282.0" type="curve" smooth="yes"/>
+      <point x="11.0" y="158.0" type="line"/>
+      <point x="11.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

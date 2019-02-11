@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="571"/>
+  <unicode hex="0030"/>
+  <guideline x="596" y="341" angle="90.0" identifier="gryzNoak0G"/>
+  <guideline x="2972" y="207" angle="90.0" identifier="WHZWt23iwv"/>
+  <guideline x="395" y="315" angle="0" identifier="KrlkajWWAZ"/>
+  <guideline x="8" y="252" angle="90.0" identifier="JYLyewAT0o"/>
+  <outline>
+    <contour>
+      <point x="286.0" y="560.0" type="curve"/>
+      <point x="406.0" y="560.0"/>
+      <point x="436.0" y="514.0"/>
+      <point x="436.0" y="315.0" type="curve"/>
+      <point x="436.0" y="123.0"/>
+      <point x="402.0" y="72.0"/>
+      <point x="286.0" y="72.0" type="curve"/>
+      <point x="165.0" y="72.0"/>
+      <point x="135.0" y="118.0"/>
+      <point x="135.0" y="315.0" type="curve"/>
+      <point x="135.0" y="508.0"/>
+      <point x="169.0" y="560.0"/>
+    </contour>
+    <contour>
+      <point x="286.0" y="-8.0" type="curve"/>
+      <point x="455.0" y="-8.0"/>
+      <point x="522.0" y="67.0"/>
+      <point x="522.0" y="315.0" type="curve"/>
+      <point x="522.0" y="569.0"/>
+      <point x="469.0" y="637.0"/>
+      <point x="286.0" y="637.0" type="curve"/>
+      <point x="116.0" y="637.0"/>
+      <point x="49.0" y="562.0"/>
+      <point x="49.0" y="315.0" type="curve"/>
+      <point x="49.0" y="60.0"/>
+      <point x="102.0" y="-8.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.JYLyewAT0o</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.KrlkajWWAZ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.WHZWt23iwv</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.gryzNoak0G</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

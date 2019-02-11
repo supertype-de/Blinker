@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="453"/>
+  <unicode hex="02C7"/>
+  <guideline x="227" y="517" angle="90.0" identifier="DzkdSO1Fz0"/>
+  <anchor x="227" y="530" name="_top"/>
+  <outline>
+    <component base="circumflex" xScale="-1" yScale="-1" xOffset="453" yOffset="1233"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.DzkdSO1Fz0</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

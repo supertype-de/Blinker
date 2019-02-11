@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="657"/>
+  <unicode hex="004E"/>
+  <guideline x="185" y="268" angle="90.0" identifier="LuQOdqHTq7"/>
+  <guideline x="412" y="283" angle="90.0" identifier="32M8yUuopj"/>
+  <guideline x="40" y="314" angle="0.0" name="mid" identifier="Pm34IetVuy"/>
+  <guideline x="318" y="627" angle="90" name="mid" identifier="9ikNgj2z6X"/>
+  <anchor x="334.0" y="645" name="top"/>
+  <anchor x="330.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="585.0" y="0.0" type="line"/>
+      <point x="585.0" y="627.0" type="line"/>
+      <point x="505.0" y="627.0" type="line"/>
+      <point x="505.0" y="132.0" type="line"/>
+      <point x="158.0" y="627.0" type="line"/>
+      <point x="72.0" y="627.0" type="line"/>
+      <point x="72.0" y="0.0" type="line"/>
+      <point x="152.0" y="0.0" type="line"/>
+      <point x="152.0" y="488.0" type="line"/>
+      <point x="499.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.32M8yUuopj</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.9ikNgj2z6X</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.LuQOdqHTq7</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.Pm34IetVuy</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

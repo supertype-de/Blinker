@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="554"/>
+  <unicode hex="006E"/>
+  <guideline x="202" y="239" angle="0" identifier="wZtfSR9PMX"/>
+  <guideline x="272" y="0" angle="90" name="mid" identifier="LY4zSpwGye"/>
+  <anchor x="279.0" y="530" name="top"/>
+  <anchor x="-29.0" y="665" name="caronalt"/>
+  <anchor x="278.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="66.0" y="0.0" type="line"/>
+      <point x="148.0" y="0.0" type="line"/>
+      <point x="148.0" y="446.0" type="line"/>
+      <point x="141.0" y="446.0" type="line"/>
+      <point x="137.0" y="494.0" type="line"/>
+      <point x="66.0" y="494.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="131.0" y="374.0" type="line"/>
+      <point x="176.0" y="404.0"/>
+      <point x="233.0" y="430.0"/>
+      <point x="296.0" y="430.0" type="curve" smooth="yes"/>
+      <point x="372.0" y="430.0"/>
+      <point x="410.0" y="399.0"/>
+      <point x="410.0" y="332.0" type="curve" smooth="yes"/>
+      <point x="410.0" y="0.0" type="line"/>
+      <point x="492.0" y="0.0" type="line"/>
+      <point x="492.0" y="342.0" type="line" smooth="yes"/>
+      <point x="492.0" y="451.0"/>
+      <point x="432.0" y="504.0"/>
+      <point x="325.0" y="504.0" type="curve" smooth="yes"/>
+      <point x="248.0" y="504.0"/>
+      <point x="189.0" y="484.0"/>
+      <point x="131.0" y="436.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.LY4zSpwGye</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.wZtfSR9PMX</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

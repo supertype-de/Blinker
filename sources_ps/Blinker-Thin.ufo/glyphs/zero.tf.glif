@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf" format="2">
+  <advance width="500"/>
+  <guideline x="268" y="445" angle="90" identifier="q76Sy6ZNED"/>
+  <guideline x="2972" y="207" angle="90" identifier="t6iYArne8h"/>
+  <guideline x="212" y="246" angle="0" identifier="b9n87mEoee"/>
+  <guideline x="8" y="252" angle="90" identifier="kiViOnsap7"/>
+  <outline>
+    <contour>
+      <point x="251.0" y="618.0" type="curve"/>
+      <point x="398.0" y="618.0"/>
+      <point x="437.0" y="556.0"/>
+      <point x="437.0" y="316.0" type="curve"/>
+      <point x="437.0" y="88.0"/>
+      <point x="391.0" y="14.0"/>
+      <point x="251.0" y="14.0" type="curve"/>
+      <point x="102.0" y="14.0"/>
+      <point x="64.0" y="77.0"/>
+      <point x="64.0" y="316.0" type="curve"/>
+      <point x="64.0" y="544.0"/>
+      <point x="109.0" y="618.0"/>
+    </contour>
+    <contour>
+      <point x="251.0" y="-6.0" type="curve"/>
+      <point x="404.0" y="-6.0"/>
+      <point x="458.0" y="76.0"/>
+      <point x="458.0" y="316.0" type="curve"/>
+      <point x="458.0" y="570.0"/>
+      <point x="412.0" y="638.0"/>
+      <point x="251.0" y="638.0" type="curve"/>
+      <point x="96.0" y="638.0"/>
+      <point x="43.0" y="557.0"/>
+      <point x="43.0" y="316.0" type="curve"/>
+      <point x="43.0" y="62.0"/>
+      <point x="90.0" y="-6.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.b9n87mEoee</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.kiViOnsap7</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.q76Sy6ZNED</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.t6iYArne8h</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

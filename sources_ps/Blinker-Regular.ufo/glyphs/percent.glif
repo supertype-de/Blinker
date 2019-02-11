@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="640"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="151.0" y="582.0" type="curve"/>
+      <point x="200.0" y="582.0"/>
+      <point x="217.0" y="555.0"/>
+      <point x="217.0" y="476.0" type="curve"/>
+      <point x="217.0" y="399.0"/>
+      <point x="200.0" y="372.0"/>
+      <point x="151.0" y="372.0" type="curve"/>
+      <point x="103.0" y="372.0"/>
+      <point x="86.0" y="399.0"/>
+      <point x="86.0" y="476.0" type="curve"/>
+      <point x="86.0" y="555.0"/>
+      <point x="103.0" y="582.0"/>
+    </contour>
+    <contour>
+      <point x="151.0" y="320.0" type="curve"/>
+      <point x="241.0" y="320.0"/>
+      <point x="276.0" y="363.0"/>
+      <point x="276.0" y="476.0" type="curve"/>
+      <point x="276.0" y="590.0"/>
+      <point x="241.0" y="632.0"/>
+      <point x="151.0" y="632.0" type="curve"/>
+      <point x="61.0" y="632.0"/>
+      <point x="26.0" y="590.0"/>
+      <point x="26.0" y="476.0" type="curve"/>
+      <point x="26.0" y="363.0"/>
+      <point x="61.0" y="320.0"/>
+    </contour>
+    <contour>
+      <point x="489.0" y="258.0" type="curve"/>
+      <point x="537.0" y="258.0"/>
+      <point x="554.0" y="230.0"/>
+      <point x="554.0" y="152.0" type="curve"/>
+      <point x="554.0" y="75.0"/>
+      <point x="537.0" y="48.0"/>
+      <point x="489.0" y="48.0" type="curve"/>
+      <point x="440.0" y="48.0"/>
+      <point x="423.0" y="75.0"/>
+      <point x="423.0" y="152.0" type="curve"/>
+      <point x="423.0" y="230.0"/>
+      <point x="440.0" y="258.0"/>
+    </contour>
+    <contour>
+      <point x="489.0" y="-4.0" type="curve"/>
+      <point x="579.0" y="-4.0"/>
+      <point x="613.0" y="38.0"/>
+      <point x="613.0" y="152.0" type="curve"/>
+      <point x="613.0" y="265.0"/>
+      <point x="579.0" y="308.0"/>
+      <point x="489.0" y="308.0" type="curve"/>
+      <point x="398.0" y="308.0"/>
+      <point x="364.0" y="265.0"/>
+      <point x="364.0" y="152.0" type="curve"/>
+      <point x="364.0" y="38.0"/>
+      <point x="398.0" y="-4.0"/>
+    </contour>
+    <component base="fraction" xOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-19 12:46:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="461"/>
+  <unicode hex="0035"/>
+  <guideline x="181" y="213" angle="0" name="mid" identifier="2MUdz5Y5Xa"/>
+  <outline>
+    <contour>
+      <point x="216.0" y="-12.0" type="curve"/>
+      <point x="344.0" y="-12.0"/>
+      <point x="446.0" y="46.0"/>
+      <point x="446.0" y="203.0" type="curve" smooth="yes"/>
+      <point x="446.0" y="357.0"/>
+      <point x="386.0" y="396.0"/>
+      <point x="310.0" y="396.0" type="curve" smooth="yes"/>
+      <point x="299.0" y="396.0"/>
+      <point x="278.0" y="395.0"/>
+      <point x="265.0" y="393.0" type="curve"/>
+      <point x="265.0" y="422.0" type="line"/>
+      <point x="406.0" y="422.0" type="line"/>
+      <point x="406.0" y="627.0" type="line"/>
+      <point x="38.0" y="627.0" type="line"/>
+      <point x="38.0" y="229.0" type="line"/>
+      <point x="80.0" y="235.0"/>
+      <point x="118.0" y="236.0"/>
+      <point x="171.0" y="236.0" type="curve"/>
+      <point x="210.0" y="236.0"/>
+      <point x="219.0" y="229.0"/>
+      <point x="219.0" y="214.0" type="curve"/>
+      <point x="219.0" y="199.0"/>
+      <point x="213.0" y="192.0"/>
+      <point x="178.0" y="192.0" type="curve"/>
+      <point x="122.0" y="192.0"/>
+      <point x="77.0" y="192.0"/>
+      <point x="20.0" y="202.0" type="curve"/>
+      <point x="20.0" y="10.0" type="line"/>
+      <point x="52.0" y="-2.0"/>
+      <point x="135.0" y="-12.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.2MUdz5Y5Xa</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

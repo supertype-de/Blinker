@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="214"/>
+  <unicode hex="0069"/>
+  <guideline x="1481" y="844" angle="0" identifier="NIMdyc3qpm"/>
+  <guideline x="101" y="247" angle="90.0" name="mid" identifier="uNf9d3efG8"/>
+  <anchor x="148.0" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="66.0" y="0.0" type="line"/>
+      <point x="148.0" y="0.0" type="line"/>
+      <point x="148.0" y="494.0" type="line"/>
+      <point x="66.0" y="494.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="63.0" y="580.0" type="line"/>
+      <point x="151.0" y="580.0" type="line"/>
+      <point x="151.0" y="665.0" type="line"/>
+      <point x="63.0" y="665.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.NIMdyc3qpm</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.uNf9d3efG8</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="431"/>
+  <unicode hex="0078"/>
+  <guideline x="248" y="257" angle="90" name="mid" identifier="eLbcrTStbP"/>
+  <anchor x="215.0" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="405.0" y="0.0" type="line"/>
+      <point x="228.0" y="257.0" type="line"/>
+      <point x="393.0" y="494.0" type="line"/>
+      <point x="368.0" y="494.0" type="line"/>
+      <point x="215.0" y="272.0" type="line"/>
+      <point x="63.0" y="494.0" type="line"/>
+      <point x="38.0" y="494.0" type="line"/>
+      <point x="202.0" y="256.0" type="line"/>
+      <point x="26.0" y="0.0" type="line"/>
+      <point x="51.0" y="0.0" type="line"/>
+      <point x="215.0" y="242.0" type="line"/>
+      <point x="380.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.eLbcrTStbP</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

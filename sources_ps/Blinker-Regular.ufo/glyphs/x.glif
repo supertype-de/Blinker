@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="446"/>
+  <unicode hex="0078"/>
+  <guideline x="248" y="257" angle="90" name="mid" identifier="hyvugHnOR6"/>
+  <anchor x="227.0" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="436.0" y="0.0" type="line"/>
+      <point x="271.0" y="257.0" type="line"/>
+      <point x="429.0" y="494.0" type="line"/>
+      <point x="342.0" y="494.0" type="line"/>
+      <point x="225.0" y="311.0" type="line"/>
+      <point x="114.0" y="494.0" type="line"/>
+      <point x="17.0" y="494.0" type="line"/>
+      <point x="175.0" y="256.0" type="line"/>
+      <point x="10.0" y="0.0" type="line"/>
+      <point x="96.0" y="0.0" type="line"/>
+      <point x="220.0" y="200.0" type="line"/>
+      <point x="345.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.hyvugHnOR6</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="362"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="368.0" y="665.0" type="line"/>
+      <point x="353.0" y="668.0"/>
+      <point x="313.0" y="675.0"/>
+      <point x="272.0" y="675.0" type="curve"/>
+      <point x="146.0" y="675.0"/>
+      <point x="80.0" y="613.0"/>
+      <point x="80.0" y="492.0" type="curve"/>
+      <point x="80.0" y="0.0" type="line"/>
+      <point x="230.0" y="0.0" type="line"/>
+      <point x="230.0" y="508.0" type="line" smooth="yes"/>
+      <point x="230.0" y="551.0"/>
+      <point x="246.0" y="555.0"/>
+      <point x="302.0" y="555.0" type="curve"/>
+      <point x="326.0" y="555.0"/>
+      <point x="355.0" y="552.0"/>
+      <point x="368.0" y="550.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="22.0" y="369.0" type="line"/>
+      <point x="353.0" y="369.0" type="line"/>
+      <point x="353.0" y="494.0" type="line"/>
+      <point x="22.0" y="494.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

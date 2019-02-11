@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.tf" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="15.0" y="297.0" type="curve"/>
+      <point x="15.0" y="65.0"/>
+      <point x="82.72800000000001" y="-12.0"/>
+      <point x="264.0" y="-12.0" type="curve"/>
+      <point x="412.0" y="-12.0"/>
+      <point x="487.0" y="74.0"/>
+      <point x="487.0" y="218.0" type="curve"/>
+      <point x="487.0" y="357.0"/>
+      <point x="436.0" y="415.0"/>
+      <point x="334.0" y="415.0" type="curve"/>
+      <point x="262.0" y="415.0"/>
+      <point x="209.0" y="374.0"/>
+      <point x="203.0" y="371.0" type="curve"/>
+      <point x="203.0" y="242.0" type="line"/>
+      <point x="222.0" y="248.0"/>
+      <point x="242.0" y="251.0"/>
+      <point x="257.0" y="251.0" type="curve"/>
+      <point x="276.92857142857144" y="251.0"/>
+      <point x="288.0" y="243.0"/>
+      <point x="288.0" y="215.0" type="curve"/>
+      <point x="288.0" y="185.0"/>
+      <point x="276.8" y="174.0"/>
+      <point x="260.0" y="174.0" type="curve"/>
+      <point x="227.89285714285714" y="174.0"/>
+      <point x="229.0" y="188.0"/>
+      <point x="229.0" y="276.0" type="curve"/>
+      <point x="229.0" y="428.0"/>
+      <point x="244.41284403669724" y="446.0"/>
+      <point x="341.0" y="446.0" type="curve"/>
+      <point x="389.0" y="446.0"/>
+      <point x="418.0" y="441.0"/>
+      <point x="438.0" y="438.0" type="curve"/>
+      <point x="438.0" y="626.0" type="line"/>
+      <point x="419.0" y="633.0"/>
+      <point x="369.0" y="637.0"/>
+      <point x="326.0" y="637.0" type="curve"/>
+      <point x="122.65384615384616" y="637.0"/>
+      <point x="15.0" y="531.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

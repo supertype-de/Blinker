@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="626"/>
+  <unicode hex="0048"/>
+  <guideline x="0.0" y="433.0" angle="0.0" name="mid" identifier="P95OL4Nff9"/>
+  <guideline x="302" y="627" angle="90" name="mid" identifier="LcMAWrAHf4"/>
+  <anchor x="314.0" y="645" name="top"/>
+  <outline>
+    <contour>
+      <point x="48.0" y="0.0" type="line"/>
+      <point x="203.0" y="0.0" type="line"/>
+      <point x="203.0" y="627.0" type="line"/>
+      <point x="48.0" y="627.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423.0" y="0.0" type="line"/>
+      <point x="578.0" y="0.0" type="line"/>
+      <point x="578.0" y="627.0" type="line"/>
+      <point x="423.0" y="627.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.0" y="248.0" type="line"/>
+      <point x="501.0" y="248.0" type="line"/>
+      <point x="501.0" y="388.0" type="line"/>
+      <point x="147.0" y="388.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.LcMAWrAHf4</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.P95OL4Nff9</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

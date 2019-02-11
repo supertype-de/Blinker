@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="523"/>
+  <unicode hex="0045"/>
+  <guideline x="311" y="393" angle="90.0" identifier="QeFf4i9LIb"/>
+  <anchor x="285.0" y="645" name="top"/>
+  <anchor x="435.0" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="488.0" y="0.0" type="line"/>
+      <point x="488.0" y="80.0" type="line"/>
+      <point x="157.0" y="80.0" type="line"/>
+      <point x="157.0" y="283.0" type="line"/>
+      <point x="442.0" y="283.0" type="line"/>
+      <point x="442.0" y="358.0" type="line"/>
+      <point x="157.0" y="358.0" type="line"/>
+      <point x="157.0" y="550.0" type="line"/>
+      <point x="479.0" y="550.0" type="line"/>
+      <point x="479.0" y="627.0" type="line"/>
+      <point x="72.0" y="627.0" type="line"/>
+      <point x="72.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.QeFf4i9LIb</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

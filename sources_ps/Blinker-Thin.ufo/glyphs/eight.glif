@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight" format="2">
+  <advance width="540"/>
+  <unicode hex="0038"/>
+  <guideline x="255" y="318" angle="0" name="mid" identifier="YJnlDbfdPy"/>
+  <outline>
+    <contour>
+      <point x="268.0" y="-6.0" type="curve"/>
+      <point x="409.0" y="-6.0"/>
+      <point x="474.0" y="48.317647058823525"/>
+      <point x="474.0" y="165.0" type="curve"/>
+      <point x="474.0" y="256.4140127388535"/>
+      <point x="423.99677637720424" y="314.00023505582885"/>
+      <point x="328.0" y="321.0" type="curve"/>
+      <point x="420.31752649058546" y="329.9339541765083"/>
+      <point x="462.0" y="389.0"/>
+      <point x="462.0" y="481.0" type="curve"/>
+      <point x="462.0" y="585.0"/>
+      <point x="401.3128205128205" y="637.0"/>
+      <point x="268.0" y="637.0" type="curve"/>
+      <point x="137.68586387434556" y="637.0"/>
+      <point x="78.0" y="583.0"/>
+      <point x="78.0" y="476.0" type="curve"/>
+      <point x="78.0" y="389.0"/>
+      <point x="118.68532329458095" y="327.94728282349377"/>
+      <point x="209.0" y="321.0" type="curve"/>
+      <point x="110.00484470442589" y="312.0004404276751"/>
+      <point x="66.0" y="245.0"/>
+      <point x="66.0" y="155.0" type="curve"/>
+      <point x="66.0" y="46.0"/>
+      <point x="129.0" y="-6.0"/>
+    </contour>
+    <contour>
+      <point x="268.0" y="617.0" type="curve"/>
+      <point x="391.0" y="617.0"/>
+      <point x="442.0" y="574.0"/>
+      <point x="442.0" y="480.0" type="curve"/>
+      <point x="442.0" y="397.0"/>
+      <point x="407.0" y="330.0"/>
+      <point x="267.0" y="330.0" type="curve"/>
+      <point x="130.80588235300002" y="330.0"/>
+      <point x="98.0" y="397.0"/>
+      <point x="98.0" y="477.0" type="curve"/>
+      <point x="98.0" y="573.0"/>
+      <point x="148.0" y="617.0"/>
+    </contour>
+    <contour>
+      <point x="267.0" y="310.0" type="curve"/>
+      <point x="395.0" y="310.0"/>
+      <point x="454.0" y="263.8382352941177"/>
+      <point x="454.0" y="164.0" type="curve"/>
+      <point x="454.0" y="60.875"/>
+      <point x="396.0" y="14.0"/>
+      <point x="268.0" y="14.0" type="curve"/>
+      <point x="144.0" y="14.0"/>
+      <point x="87.0" y="58.0"/>
+      <point x="87.0" y="155.0" type="curve"/>
+      <point x="87.0" y="261.0"/>
+      <point x="144.0" y="310.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.YJnlDbfdPy</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

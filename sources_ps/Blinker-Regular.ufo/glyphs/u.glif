@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="538"/>
+  <unicode hex="0075"/>
+  <guideline x="277" y="494" angle="90" name="mid" identifier="6E5foy0PSc"/>
+  <anchor x="269.0" y="520" name="top"/>
+  <anchor x="472.0" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="62.0" y="156.0" type="line" smooth="yes"/>
+      <point x="62.0" y="46.0"/>
+      <point x="118.0" y="-8.0"/>
+      <point x="226.0" y="-8.0" type="curve" smooth="yes"/>
+      <point x="288.0" y="-8.0"/>
+      <point x="342.41514451700436" y="14.044624282002388"/>
+      <point x="412.0" y="52.0" type="curve"/>
+      <point x="412.0" y="116.0" type="line"/>
+      <point x="371.0" y="92.0"/>
+      <point x="316.0" y="69.0"/>
+      <point x="252.0" y="69.0" type="curve" smooth="yes"/>
+      <point x="176.0" y="69.0"/>
+      <point x="144.0" y="99.0"/>
+      <point x="144.0" y="166.0" type="curve" smooth="yes"/>
+      <point x="144.0" y="494.0" type="line"/>
+      <point x="62.0" y="494.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="472.0" y="494.0" type="line"/>
+      <point x="390.0" y="494.0" type="line"/>
+      <point x="390.0" y="41.0" type="line"/>
+      <point x="393.0" y="41.0" type="line"/>
+      <point x="397.0" y="0.0" type="line"/>
+      <point x="472.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.6E5foy0PSc</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

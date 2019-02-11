@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance width="543"/>
+  <unicode hex="014D"/>
+  <outline>
+    <component base="o"/>
+    <component base="macron" xOffset="99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8724,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="568"/>
+  <unicode hex="0050"/>
+  <guideline x="279" y="385" angle="0" name="mid" identifier="BoAGRpdYK7"/>
+  <guideline x="225" y="237" angle="270.0" identifier="l4mg0jy6Wu"/>
+  <outline>
+    <contour>
+      <point x="274.0" y="152.0" type="line" smooth="yes"/>
+      <point x="466.0" y="152.0"/>
+      <point x="558.0" y="223.0"/>
+      <point x="558.0" y="392.0" type="curve"/>
+      <point x="558.0" y="568.0"/>
+      <point x="475.0" y="627.0"/>
+      <point x="271.0" y="627.0" type="curve" smooth="yes"/>
+      <point x="187.0" y="627.0" type="line"/>
+      <point x="187.0" y="422.0" type="line"/>
+      <point x="291.0" y="422.0" type="line" smooth="yes"/>
+      <point x="308.0" y="422.0"/>
+      <point x="327.0" y="418.0"/>
+      <point x="327.0" y="385.0" type="curve"/>
+      <point x="327.0" y="351.0"/>
+      <point x="309.0" y="347.0"/>
+      <point x="291.0" y="347.0" type="curve" smooth="yes"/>
+      <point x="187.0" y="347.0" type="line"/>
+      <point x="187.0" y="152.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="253.0" y="0.0" type="line"/>
+      <point x="253.0" y="627.0" type="line"/>
+      <point x="26.0" y="627.0" type="line"/>
+      <point x="26.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.BoAGRpdYK7</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.l4mg0jy6Wu</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

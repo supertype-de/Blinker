@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="554"/>
+  <unicode hex="00F8"/>
+  <guideline x="60" y="464" angle="90.0" identifier="fgUCaTqHvj"/>
+  <guideline x="494" y="142" angle="90.0" identifier="rIbfDS8IiD"/>
+  <anchor x="277.0" y="530.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="67.0" y="-41.0" type="line"/>
+      <point x="83.0" y="-52.0" type="line"/>
+      <point x="135.0" y="22.0" type="line"/>
+      <point x="142.0" y="32.0" type="line"/>
+      <point x="432.0" y="453.0" type="line"/>
+      <point x="439.0" y="463.0" type="line"/>
+      <point x="489.0" y="534.0" type="line"/>
+      <point x="473.0" y="545.0" type="line"/>
+      <point x="424.0" y="475.0" type="line"/>
+      <point x="416.0" y="464.0" type="line"/>
+      <point x="127.0" y="45.0" type="line"/>
+      <point x="118.0" y="32.0" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.fgUCaTqHvj</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.rIbfDS8IiD</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.2,0.8,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

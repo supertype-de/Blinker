@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="487"/>
+  <unicode hex="004C"/>
+  <guideline x="91" y="627" angle="90" name="mid" identifier="f6Rh29nim8"/>
+  <anchor x="104.0" y="645" name="top"/>
+  <anchor x="285.0" y="0" name="bottom"/>
+  <anchor x="363.0" y="627" name="caronalt"/>
+  <outline>
+    <contour>
+      <point x="463.0" y="0.0" type="line"/>
+      <point x="463.0" y="20.0" type="line"/>
+      <point x="114.0" y="20.0" type="line"/>
+      <point x="114.0" y="627.0" type="line"/>
+      <point x="93.0" y="627.0" type="line"/>
+      <point x="93.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.f6Rh29nim8</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

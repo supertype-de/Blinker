@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/martin/Documents/Blinker/Blinker_ps_src_RF3/instances"/>
+    <data name="previewtext" value="/breve"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis maximum="220.000000" minimum="20.000000" name="weight" shortname="wght">
+        <color a="1.000" b="0.220" g="0.388" r="0.831"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Blinker" filename="Blinker-Bold.ufo" sortorder="2" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="150.000000"/>
+        </location>
+        <color a="1.000" b="1.000" g="0.000" r="0.000"/>
+    </master>
+    <master familyname="Blinker" filename="Blinker-Thin.ufo" sortorder="0" stylename="Thin">
+        <location>
+            <dimension name="weight" xvalue="20.000000"/>
+        </location>
+        <color a="1.000" b="0.500" g="0.000" r="1.000"/>
+    </master>
+    <master familyname="Blinker" filename="Blinker-Regular.ufo" sortorder="1" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="82.000000"/>
+        </location>
+        <color a="1.000" b="0.735" g="0.778" r="0.016"/>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </master>
+    <master familyname="Blinker" filename="Blinker-Black.ufo" sortorder="3" stylename="Black">
+        <location>
+            <dimension name="weight" xvalue="220.000000"/>
+        </location>
+        <color a="1.000" b="0.056" g="0.962" r="0.923"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Blinker" filename="instances/Blinker-SemiBold.ufo" sortorder="8" styleMapFamilyName="Blinker SemiBold" styleMapStyleName="regular" stylename="SemiBold">
+        <location>
+            <dimension name="weight" xvalue="116.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" sortorder="5" styleMapFamilyName="Blinker Light" styleMapStyleName="regular" stylename="Light">
+        <location>
+            <dimension name="weight" xvalue="36.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-SemiLight.ufo" sortorder="6" styleMapFamilyName="Blinker SemiLight" styleMapStyleName="regular" stylename="SemiLight">
+        <location>
+            <dimension name="weight" xvalue="62.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-ExtraBold.ufo" sortorder="10" styleMapFamilyName="Blinker ExtraBold" styleMapStyleName="regular" stylename="ExtraBold">
+        <location>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-Thin.ufo" sortorder="4" styleMapFamilyName="Blinker Thin" styleMapStyleName="regular" stylename="Thin">
+        <location>
+            <dimension name="weight" xvalue="20.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-Black.ufo" sortorder="11" styleMapFamilyName="Blinker Black" styleMapStyleName="regular" stylename="Black">
+        <location>
+            <dimension name="weight" xvalue="220.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-Regular.ufo" sortorder="7" styleMapFamilyName="Blinker" styleMapStyleName="regular" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="82.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Blinker" filename="instances/Blinker-Bold.ufo" sortorder="9" styleMapFamilyName="Blinker" styleMapStyleName="bold" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="150.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tf" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="445.0" y="0.0" type="line"/>
+      <point x="445.0" y="80.0" type="line"/>
+      <point x="146.0" y="80.0" type="line"/>
+      <point x="351.0" y="298.0" type="line" smooth="yes"/>
+      <point x="404.0" y="354.0"/>
+      <point x="435.0" y="405.0"/>
+      <point x="435.0" y="479.0" type="curve"/>
+      <point x="435.0" y="572.0"/>
+      <point x="380.0" y="638.0"/>
+      <point x="261.0" y="638.0" type="curve"/>
+      <point x="193.0" y="638.0"/>
+      <point x="128.0" y="629.0"/>
+      <point x="76.0" y="615.0" type="curve"/>
+      <point x="76.0" y="539.0" type="line"/>
+      <point x="105.13027814257487" y="548.0404311476957"/>
+      <point x="191.0" y="560.0"/>
+      <point x="249.0" y="560.0" type="curve"/>
+      <point x="321.0" y="560.0"/>
+      <point x="350.0" y="521.4333333333333"/>
+      <point x="350.0" y="471.0" type="curve"/>
+      <point x="350.0" y="416.0"/>
+      <point x="323.0" y="376.0"/>
+      <point x="282.0" y="333.0" type="curve" smooth="yes"/>
+      <point x="44.0" y="80.0" type="line"/>
+      <point x="44.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-18 19:44:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

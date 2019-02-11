@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="500"/>
+  <unicode hex="2265"/>
+  <guideline x="33" y="174" angle="90.0" identifier="U9ywUm26FZ"/>
+  <outline>
+    <component base="lessequal" xScale="-1" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.U9ywUm26FZ</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

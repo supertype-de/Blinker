@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="234"/>
+  <unicode hex="0060"/>
+  <guideline x="152" y="549" angle="90" name="mid" identifier="orxkJooPqd"/>
+  <anchor x="142" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="682.0" type="line"/>
+      <point x="162.0" y="571.0" type="line"/>
+      <point x="184.0" y="571.0" type="line"/>
+      <point x="84.0" y="682.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.orxkJooPqd</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="549"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="488.0" y="598.0" type="line"/>
+      <point x="488.0" y="648.0" type="line"/>
+      <point x="159.0" y="572.0" type="line"/>
+      <point x="159.0" y="523.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="272.0" y="-8.0" type="curve" smooth="yes"/>
+      <point x="439.0" y="-8.0"/>
+      <point x="500.0" y="59.0"/>
+      <point x="500.0" y="241.0" type="curve" smooth="yes"/>
+      <point x="500.0" y="429.0"/>
+      <point x="423.0" y="490.0"/>
+      <point x="272.0" y="490.0" type="curve" smooth="yes"/>
+      <point x="104.0" y="490.0"/>
+      <point x="43.0" y="423.0"/>
+      <point x="43.0" y="241.0" type="curve" smooth="yes"/>
+      <point x="43.0" y="53.0"/>
+      <point x="100.0" y="-8.0"/>
+    </contour>
+    <contour>
+      <point x="272.0" y="68.0" type="curve" smooth="yes"/>
+      <point x="153.0" y="68.0"/>
+      <point x="125.0" y="101.0"/>
+      <point x="125.0" y="242.0" type="curve" smooth="yes"/>
+      <point x="125.0" y="379.7919075144508"/>
+      <point x="157.0" y="416.0"/>
+      <point x="272.0" y="416.0" type="curve" smooth="yes"/>
+      <point x="390.0" y="416.0"/>
+      <point x="418.0" y="383.8150289017341"/>
+      <point x="418.0" y="242.0" type="curve" smooth="yes"/>
+      <point x="418.0" y="105.0"/>
+      <point x="386.0" y="68.0"/>
+    </contour>
+    <contour>
+      <point x="351.0" y="665.0" type="curve"/>
+      <point x="259.0" y="665.0" type="line"/>
+      <point x="362.1374247669368" y="561.8625752330631"/>
+      <point x="422.01597514108767" y="441.4047035742213"/>
+      <point x="416.0" y="289.0" type="curve"/>
+      <point x="500.0" y="241.0" type="line"/>
+      <point x="500.0" y="451.4964539007092"/>
+      <point x="450.1250724191506" y="558.866084076465"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>a_left</key>
+      <integer>20</integer>
+      <key>a_right</key>
+      <real>95.0</real>
+      <key>public.markColor</key>
+      <string>0.2,0.8,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

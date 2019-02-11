@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="310"/>
+  <unicode hex="2022"/>
+  <outline>
+    <component base="period" xScale="1.0697680407053847" yScale="1.2843941143315385" xOffset="24.37208763365154" yOffset="185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

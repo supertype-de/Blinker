@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="362"/>
+  <unicode hex="0060"/>
+  <guideline x="130" y="705" angle="90.0" name="mid" identifier="JniTIOZSek"/>
+  <anchor x="219" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="682.0" type="line"/>
+      <point x="196.0" y="551.0" type="line"/>
+      <point x="312.0" y="551.0" type="line"/>
+      <point x="207.0" y="682.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.JniTIOZSek</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

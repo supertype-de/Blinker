@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="518"/>
+  <unicode hex="0034"/>
+  <guideline x="118" y="219" angle="353.74096369487773" identifier="LxBrAXspm8"/>
+  <outline>
+    <contour>
+      <point x="493.0" y="166.0" type="line"/>
+      <point x="493.0" y="240.0" type="line"/>
+      <point x="407.0" y="240.0" type="line"/>
+      <point x="407.0" y="517.0" type="line"/>
+      <point x="322.0" y="517.0" type="line"/>
+      <point x="322.0" y="240.0" type="line"/>
+      <point x="121.0" y="240.0" type="line"/>
+      <point x="193.0" y="627.0" type="line"/>
+      <point x="111.0" y="627.0" type="line"/>
+      <point x="35.0" y="240.0" type="line"/>
+      <point x="35.0" y="166.0" type="line"/>
+      <point x="322.0" y="166.0" type="line"/>
+      <point x="322.0" y="0.0" type="line"/>
+      <point x="407.0" y="0.0" type="line"/>
+      <point x="407.0" y="166.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.LxBrAXspm8</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

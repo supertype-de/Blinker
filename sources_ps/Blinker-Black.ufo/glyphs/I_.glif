@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="279"/>
+  <unicode hex="0049"/>
+  <guideline x="128.0" y="0.0" angle="90.0" name="mid" identifier="gU13WGMN9n"/>
+  <anchor x="140.0" y="645" name="top"/>
+  <anchor x="252.0" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="253.0" y="0.0" type="line"/>
+      <point x="253.0" y="627.0" type="line"/>
+      <point x="26.0" y="627.0" type="line"/>
+      <point x="26.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.gU13WGMN9n</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>

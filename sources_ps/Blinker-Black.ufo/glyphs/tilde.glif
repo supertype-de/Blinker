@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="413"/>
+  <unicode hex="02DC"/>
+  <guideline x="161.0" y="0.0" angle="90.0" name="mid" identifier="PZjGCG6Fh1"/>
+  <guideline x="207" y="602" angle="90" name="mid" identifier="5Z0JekgQOt"/>
+  <anchor x="207" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="363.0" y="674.0" type="curve"/>
+      <point x="259.0" y="674.0" type="line"/>
+      <point x="259.0" y="664.0"/>
+      <point x="259.0" y="648.0"/>
+      <point x="245.0" y="648.0" type="curve"/>
+      <point x="218.0" y="648.0"/>
+      <point x="176.0" y="678.0"/>
+      <point x="135.0" y="678.0" type="curve" smooth="yes"/>
+      <point x="66.0" y="678.0"/>
+      <point x="50.0" y="599.0"/>
+      <point x="50.0" y="530.0" type="curve"/>
+      <point x="154.0" y="530.0" type="line"/>
+      <point x="154.0" y="543.0"/>
+      <point x="154.0" y="561.0"/>
+      <point x="167.0" y="561.0" type="curve"/>
+      <point x="191.0" y="561.0"/>
+      <point x="235.0" y="526.0"/>
+      <point x="276.0" y="526.0" type="curve" smooth="yes"/>
+      <point x="346.0" y="526.0"/>
+      <point x="363.0" y="605.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.5Z0JekgQOt</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.PZjGCG6Fh1</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

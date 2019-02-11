@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="537"/>
+  <unicode hex="02DD"/>
+  <guideline x="247.0" y="0.0" angle="90.0" name="mid" identifier="MXOSB8peKI"/>
+  <anchor x="236" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="297.0" y="682.0" type="line"/>
+      <point x="155.0" y="682.0" type="line"/>
+      <point x="50.0" y="551.0" type="line"/>
+      <point x="161.0" y="551.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="487.0" y="682.0" type="line"/>
+      <point x="345.0" y="682.0" type="line"/>
+      <point x="240.0" y="551.0" type="line"/>
+      <point x="351.0" y="551.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.MXOSB8peKI</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
+    </dict>
+  </lib>
+</glyph>

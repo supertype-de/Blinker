@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="638"/>
+  <unicode hex="004B"/>
+  <guideline x="0.0" y="314.0" angle="0.0" name="mid" identifier="0cZRHPYgBl"/>
+  <anchor x="301.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="655.0" y="0.0" type="line"/>
+      <point x="472.0" y="325.0" type="line"/>
+      <point x="649.0" y="627.0" type="line"/>
+      <point x="383.0" y="627.0" type="line"/>
+      <point x="273.0" y="405.0" type="line"/>
+      <point x="253.0" y="405.0" type="line"/>
+      <point x="253.0" y="627.0" type="line"/>
+      <point x="26.0" y="627.0" type="line"/>
+      <point x="26.0" y="0.0" type="line"/>
+      <point x="253.0" y="0.0" type="line"/>
+      <point x="253.0" y="230.0" type="line"/>
+      <point x="273.0" y="230.0" type="line"/>
+      <point x="377.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 15:51:07 +0000</string>
+      <key>com.typemytype.robofont.guideline.magnetic.0cZRHPYgBl</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
+    </dict>
+  </lib>
+</glyph>
