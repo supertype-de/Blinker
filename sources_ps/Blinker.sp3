@@ -9,7 +9,7 @@
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="lined"/>
-    <data name="generateFontsAtFolder" value="/Users/martin/Documents/Blinker/Blinker_ps_src_RF3/instances"/>
+    <data name="generateFontsAtFolder" value="/Users/martin/Documents/GitHub/Blinker/sources_ps/instances"/>
     <data name="previewtext" value="/breve"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
@@ -57,7 +57,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" sortorder="5" styleMapFamilyName="Blinker Light" styleMapStyleName="regular" stylename="Light">
+    <instance familyname="Blinker" filename="instances/Blinker-ExtraLight.ufo" sortorder="5" styleMapFamilyName="Blinker ExtraLight" styleMapStyleName="regular" stylename="ExtraLight">
         <location>
             <dimension name="weight" xvalue="36.000000"/>
         </location>
@@ -66,7 +66,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-SemiLight.ufo" sortorder="6" styleMapFamilyName="Blinker SemiLight" styleMapStyleName="regular" stylename="SemiLight">
+    <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" sortorder="6" styleMapFamilyName="Blinker Light" styleMapStyleName="regular" stylename="Light">
         <location>
             <dimension name="weight" xvalue="62.000000"/>
         </location>

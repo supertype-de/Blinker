@@ -36,14 +36,14 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" postscriptfontname="Blinker-Light" stylemapfamilyname="Blinker Light" stylemapstylename="regular" stylename="Light">
+        <instance familyname="Blinker" filename="instances/Blinker-ExtraLight.ufo" postscriptfontname="Blinker-ExtraLight" stylemapfamilyname="Blinker ExtraLight" stylemapstylename="regular" stylename="ExtraLight">
             <location>
                 <dimension name="weight" xvalue="36" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Blinker" filename="instances/Blinker-SemiLight.ufo" postscriptfontname="Blinker-SemiLight" stylemapfamilyname="Blinker SemiLight" stylemapstylename="regular" stylename="SemiLight">
+        <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" postscriptfontname="Blinker-Light" stylemapfamilyname="Blinker Light" stylemapstylename="regular" stylename="Light">
             <location>
                 <dimension name="weight" xvalue="62" />
             </location>
