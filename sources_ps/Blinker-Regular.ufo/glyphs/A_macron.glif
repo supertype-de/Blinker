@@ -1,15 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Amacron" format="2">
-  <advance width="598"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="1">
+  <advance width="598.0"/>
   <unicode hex="0100"/>
   <outline>
     <component base="A"/>
-    <component base="macron.uc" xOffset="126" yOffset="115"/>
+    <component base="macron.uc" xOffset="126.0" yOffset="115.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.8724,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8724</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

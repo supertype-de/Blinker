@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tilde" format="2">
-  <advance width="332"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="332.0"/>
   <unicode hex="02DC"/>
-  <guideline x="166" y="600" angle="90" name="mid" identifier="JsUfMqz36O"/>
-  <anchor x="166" y="530" name="_top"/>
   <outline>
     <contour>
       <point x="296.0" y="635.0" type="curve"/>
@@ -27,13 +25,36 @@
       <point x="283.0" y="526.0"/>
       <point x="296.0" y="583.93006993007"/>
     </contour>
+    <contour>
+      <point x="166" y="530" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.JsUfMqz36O</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>166</integer>
+          <key>y</key>
+          <integer>600</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

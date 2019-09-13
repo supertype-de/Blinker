@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="eight.tf" format="2">
-  <advance width="500"/>
-  <guideline x="255" y="318" angle="0" name="mid" identifier="yfYUfZdrKJ"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.tf" format="1">
+  <advance width="500.0"/>
   <outline>
     <contour>
       <point x="249.0" y="-8.0" type="curve"/>
@@ -62,10 +61,30 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-18 19:44:09 +0000</string>
-      <key>com.typemytype.robofont.guideline.magnetic.yfYUfZdrKJ</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0,0.8,0.8,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>255</integer>
+          <key>y</key>
+          <integer>318</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="braceleft" format="2">
-  <advance width="286"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="286.0"/>
   <unicode hex="007B"/>
-  <guideline x="301" y="313" angle="0" name="mid" identifier="T9AknnB2xE"/>
   <outline>
     <contour>
       <point x="127.0" y="317.0" type="line"/>
@@ -45,10 +44,30 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-28 20:40:02 +0000</string>
-      <key>com.typemytype.robofont.guideline.magnetic.T9AknnB2xE</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.8,0.6,0.4,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>301</integer>
+          <key>y</key>
+          <integer>313</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

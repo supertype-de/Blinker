@@ -1,16 +1,85 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="threequarters" format="2">
-  <advance width="758"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="758.0"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="uni00B3" xOffset="7"/>
-    <component base="fraction" xOffset="303"/>
-    <component base="four.dnom" xOffset="421"/>
+    <component base="uni00B3" xOffset="7.0"/>
+    <component base="fraction" xOffset="303.0"/>
+    <component base="four.dnom" xOffset="421.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0,0.8,0.8,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Rogers_Bold_10.ufo</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>onesuperior</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>45</integer>
+                <integer>-119</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>fraction</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>116</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uni2074</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>381</integer>
+                <integer>-400</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>758.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

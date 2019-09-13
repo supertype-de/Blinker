@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Lcaron" format="2">
-  <advance width="488"/>
-  <outline>
-    <component base="L"/>
-    <component base="commaaccent" xOffset="247" yOffset="677"/>
-  </outline>
-</glyph>

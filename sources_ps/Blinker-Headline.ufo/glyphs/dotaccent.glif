@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dotaccent" format="2">
-  <advance width="260"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="260.0"/>
   <unicode hex="02D9"/>
-  <anchor x="132" y="530" name="_top"/>
   <outline>
     <contour>
       <point x="56.0" y="530.0" type="line"/>
@@ -10,11 +9,19 @@
       <point x="204.0" y="635.0" type="line"/>
       <point x="56.0" y="635.0" type="line"/>
     </contour>
+    <contour>
+      <point x="132" y="530" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

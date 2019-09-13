@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ring.uc" format="2">
-  <advance width="277"/>
-  <anchor x="137" y="530" name="_top"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.uc" format="1">
+  <advance width="277.0"/>
   <outline>
     <contour>
       <point x="137.0" y="584.0" type="curve" smooth="yes"/>
@@ -31,11 +30,19 @@
       <point x="33.0" y="558.0"/>
       <point x="75.0" y="528.0"/>
     </contour>
+    <contour>
+      <point x="137" y="530" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

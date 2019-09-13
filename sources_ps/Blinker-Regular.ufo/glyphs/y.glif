@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="y" format="2">
-  <advance width="495"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="1">
+  <advance width="495.0"/>
   <unicode hex="0079"/>
-  <guideline x="568" y="213" angle="158.99815764366602" identifier="8z3DBKOAcg"/>
-  <anchor x="253.0" y="520" name="top"/>
   <outline>
     <contour>
       <point x="210.0" y="7.0" type="line"/>
@@ -26,13 +24,38 @@
       <point x="100.0" y="494.0" type="line"/>
       <point x="8.0" y="494.0" type="line"/>
     </contour>
+    <contour>
+      <point x="253.0" y="520" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.8z3DBKOAcg</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>158.99815764366602</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>568</integer>
+          <key>y</key>
+          <integer>213</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

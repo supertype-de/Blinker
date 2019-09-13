@@ -1,11 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero" format="2">
-  <advance width="571"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="571.0"/>
   <unicode hex="0030"/>
-  <guideline x="596" y="341" angle="90.0" identifier="gryzNoak0G"/>
-  <guideline x="2972" y="207" angle="90.0" identifier="WHZWt23iwv"/>
-  <guideline x="395" y="315" angle="0" identifier="KrlkajWWAZ"/>
-  <guideline x="8" y="252" angle="90.0" identifier="JYLyewAT0o"/>
   <outline>
     <contour>
       <point x="286.0" y="560.0" type="curve"/>
@@ -38,16 +34,78 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.JYLyewAT0o</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.KrlkajWWAZ</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.WHZWt23iwv</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.gryzNoak0G</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0,0.8,0.8,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>596</integer>
+          <key>y</key>
+          <integer>341</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>2972</integer>
+          <key>y</key>
+          <integer>207</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>395</integer>
+          <key>y</key>
+          <integer>315</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>8</integer>
+          <key>y</key>
+          <integer>252</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

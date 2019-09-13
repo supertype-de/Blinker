@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="d" format="2">
-  <advance width="547"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="547.0"/>
   <unicode hex="0064"/>
-  <anchor x="556.0" y="665" name="caronalt"/>
   <outline>
     <contour>
       <point x="526.0" y="665.0" type="line"/>
@@ -40,13 +39,21 @@
       <point x="344.0" y="55.0"/>
       <point x="373.0" y="182.0" type="curve"/>
     </contour>
+    <contour>
+      <point x="556.0" y="665" type="move" name="caronalt"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,16 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="divide" format="2">
-  <advance width="500"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="500.0"/>
   <unicode hex="00F7"/>
   <outline>
     <component base="minus"/>
-    <component base="period" xScale="0.9" yScale="0.9" xOffset="140.9" yOffset="32"/>
-    <component base="period" xScale="0.9" yScale="0.9" xOffset="140.9" yOffset="436"/>
+    <component base="period" xScale="0.9" yScale="0.9" xOffset="140.9" yOffset="32.0"/>
+    <component base="period" xScale="0.9" yScale="0.9" xOffset="140.9" yOffset="436.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.8,0.6,0.4,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,17 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Udieresis" format="2">
-  <advance width="620"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="620.0"/>
   <unicode hex="00DC"/>
   <outline>
     <component base="U"/>
-    <component base="dieresis.uc" xOffset="75" yOffset="115"/>
+    <component base="dieresis.uc" xOffset="75.0" yOffset="115.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:08 +0000</string>
-      <key>public.markColor</key>
-      <string>1,0.8724,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8724</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

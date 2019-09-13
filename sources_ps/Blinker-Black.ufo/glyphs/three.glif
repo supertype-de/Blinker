@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="three" format="2">
-  <advance width="462"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="462.0"/>
   <unicode hex="0033"/>
   <outline>
     <contour>
@@ -52,8 +52,13 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>public.markColor</key>
-      <string>0,0.8,0.8,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

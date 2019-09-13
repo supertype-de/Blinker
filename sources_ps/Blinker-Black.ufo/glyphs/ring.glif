@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ring" format="2">
-  <advance width="347"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="347.0"/>
   <unicode hex="02DA"/>
-  <anchor x="172.0" y="530.0" name="_top"/>
   <outline>
     <contour>
       <point x="172.0" y="612.0" type="curve" smooth="yes"/>
@@ -32,13 +31,21 @@
       <point x="47.0" y="565.0"/>
       <point x="97.0" y="523.0"/>
     </contour>
+    <contour>
+      <point x="172.0" y="530.0" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

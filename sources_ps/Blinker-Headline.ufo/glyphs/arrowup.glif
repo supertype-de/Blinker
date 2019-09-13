@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="arrowup" format="2">
-  <advance width="534"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup" format="1">
+  <advance width="534.0"/>
   <unicode hex="2191"/>
   <outline>
     <contour>
@@ -31,8 +31,13 @@
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.3803,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3803</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

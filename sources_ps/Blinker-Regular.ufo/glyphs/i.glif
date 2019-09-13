@@ -1,10 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="i" format="2">
-  <advance width="214"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="214.0"/>
   <unicode hex="0069"/>
-  <guideline x="1481" y="844" angle="0" identifier="NIMdyc3qpm"/>
-  <guideline x="101" y="247" angle="90.0" name="mid" identifier="uNf9d3efG8"/>
-  <anchor x="148.0" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="66.0" y="0.0" type="line"/>
@@ -18,15 +15,50 @@
       <point x="151.0" y="665.0" type="line"/>
       <point x="63.0" y="665.0" type="line"/>
     </contour>
+    <contour>
+      <point x="148.0" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.NIMdyc3qpm</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.uNf9d3efG8</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>1481</integer>
+          <key>y</key>
+          <integer>844</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>101</integer>
+          <key>y</key>
+          <integer>247</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

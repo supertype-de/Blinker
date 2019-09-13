@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="h" format="2">
-  <advance width="553"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="553.0"/>
   <unicode hex="0068"/>
-  <guideline x="202" y="239" angle="0" identifier="TB17BkDosO"/>
-  <anchor x="107.0" y="681" name="top"/>
   <outline>
     <contour>
       <point x="66.0" y="0.0" type="line"/>
@@ -29,13 +27,38 @@
       <point x="184.0" y="476.0"/>
       <point x="130.0" y="444.0" type="curve"/>
     </contour>
+    <contour>
+      <point x="107.0" y="681" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.TB17BkDosO</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>202</integer>
+          <key>y</key>
+          <integer>239</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

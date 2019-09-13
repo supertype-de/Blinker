@@ -1,17 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Odieresis" format="2">
-  <advance width="647"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="1">
+  <advance width="647.0"/>
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
-    <component base="dieresis.uc" xOffset="87" yOffset="125"/>
+    <component base="dieresis.uc" xOffset="87.0" yOffset="125.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:08 +0000</string>
-      <key>public.markColor</key>
-      <string>1,0.8724,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8724</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

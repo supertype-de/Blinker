@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="u" format="2">
-  <advance width="428"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="428.0"/>
   <unicode hex="0075"/>
-  <anchor x="214.0" y="520" name="top"/>
-  <anchor x="414.0" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="12.0" y="134.0" type="line"/>
@@ -31,11 +29,22 @@
       <point x="253.0" y="0.0" type="line"/>
       <point x="414.0" y="0.0" type="line"/>
     </contour>
+    <contour>
+      <point x="214.0" y="520" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="414.0" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

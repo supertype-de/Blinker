@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="perthousand" format="2">
-  <advance width="934"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="934.0"/>
   <unicode hex="2030"/>
   <outline>
     <contour>
@@ -87,14 +87,19 @@
       <point x="658.0" y="38.0"/>
       <point x="693.0" y="-4.0"/>
     </contour>
-    <component base="fraction" xOffset="242"/>
+    <component base="fraction" xOffset="242.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-19 12:46:41 +0000</string>
-      <key>public.markColor</key>
-      <string>0.8,0.6,0.4,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

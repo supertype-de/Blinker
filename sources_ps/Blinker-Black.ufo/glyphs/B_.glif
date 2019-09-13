@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="B" format="2">
-  <advance width="564"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="1">
+  <advance width="564.0"/>
   <unicode hex="0042"/>
-  <guideline x="321" y="351" angle="270.0" identifier="v8HvT1n9AB"/>
   <outline>
     <contour>
       <point x="314.0" y="0.0" type="line"/>
@@ -50,10 +49,30 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>com.typemytype.robofont.guideline.magnetic.v8HvT1n9AB</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>-90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>321</integer>
+          <key>y</key>
+          <integer>351</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="congruent" format="2">
-  <advance width="500"/>
-  <outline>
-    <component base="minus" yOffset="-222"/>
-    <component base="approxequal" yOffset="109"/>
-  </outline>
-</glyph>

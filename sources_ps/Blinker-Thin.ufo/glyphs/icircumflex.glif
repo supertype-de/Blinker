@@ -1,15 +1,71 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="icircumflex" format="2">
-  <advance width="190"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="190.0"/>
   <unicode hex="00EE"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-97" yOffset="-10"/>
+    <component base="circumflex" xOffset="-97.0" yOffset="-10.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.8724,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Rogers_Bold_11.ufo</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>dotlessi</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>circumflex</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-109</integer>
+                <integer>-10</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>icircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>190.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8724</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

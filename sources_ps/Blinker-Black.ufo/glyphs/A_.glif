@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="A" format="2">
-  <advance width="642"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="642.0"/>
   <unicode hex="0041"/>
-  <anchor x="322.0" y="645" name="top"/>
-  <anchor x="644.0" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="-10.0" y="0.0" type="line"/>
@@ -29,13 +27,24 @@
       <point x="463.0" y="236.0" type="line"/>
       <point x="158.0" y="236.0" type="line"/>
     </contour>
+    <contour>
+      <point x="322.0" y="645" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="644.0" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

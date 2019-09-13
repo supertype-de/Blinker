@@ -10,7 +10,7 @@
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="lined"/>
     <data name="generateFontsAtFolder" value="/Users/martin/Documents/GitHub/Blinker/sources_ps/instances"/>
-    <data name="previewtext" value="/breve"/>
+    <data name="previewtext" value="Blinker, my Friend."/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
@@ -25,7 +25,7 @@
         </location>
         <color a="1.000" b="1.000" g="0.000" r="0.000"/>
     </master>
-    <master familyname="Blinker" filename="Blinker-Thin.ufo" sortorder="0" stylename="Thin">
+    <master familyname="Blinker Thin" filename="Blinker-Thin.ufo" sortorder="0" stylename="Thin">
         <location>
             <dimension name="weight" xvalue="20.000000"/>
         </location>
@@ -41,14 +41,14 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </master>
-    <master familyname="Blinker" filename="Blinker-Black.ufo" sortorder="3" stylename="Black">
+    <master familyname="Blinker Black" filename="Blinker-Black.ufo" sortorder="3" stylename="Black">
         <location>
             <dimension name="weight" xvalue="220.000000"/>
         </location>
         <color a="1.000" b="0.056" g="0.962" r="0.923"/>
     </master>
     <!-- instance definitions -->
-    <instance familyname="Blinker" filename="instances/Blinker-SemiBold.ufo" sortorder="8" styleMapFamilyName="Blinker SemiBold" styleMapStyleName="regular" stylename="SemiBold">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-SemiBold.ufo" sortorder="8" styleMapFamilyName="Blinker SemiBold" styleMapStyleName="regular" stylename="SemiBold">
         <location>
             <dimension name="weight" xvalue="116.000000"/>
         </location>
@@ -57,7 +57,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-ExtraLight.ufo" sortorder="5" styleMapFamilyName="Blinker ExtraLight" styleMapStyleName="regular" stylename="ExtraLight">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-ExtraLight.ufo" sortorder="5" styleMapFamilyName="Blinker ExtraLight" styleMapStyleName="regular" stylename="ExtraLight">
         <location>
             <dimension name="weight" xvalue="36.000000"/>
         </location>
@@ -66,7 +66,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-Light.ufo" sortorder="6" styleMapFamilyName="Blinker Light" styleMapStyleName="regular" stylename="Light">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-Light.ufo" sortorder="6" styleMapFamilyName="Blinker Light" styleMapStyleName="regular" stylename="Light">
         <location>
             <dimension name="weight" xvalue="62.000000"/>
         </location>
@@ -75,7 +75,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-ExtraBold.ufo" sortorder="10" styleMapFamilyName="Blinker ExtraBold" styleMapStyleName="regular" stylename="ExtraBold">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-ExtraBold.ufo" sortorder="10" styleMapFamilyName="Blinker ExtraBold" styleMapStyleName="regular" stylename="ExtraBold">
         <location>
             <dimension name="weight" xvalue="180.000000"/>
         </location>
@@ -84,7 +84,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-Thin.ufo" sortorder="4" styleMapFamilyName="Blinker Thin" styleMapStyleName="regular" stylename="Thin">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-Thin.ufo" sortorder="4" styleMapFamilyName="Blinker Thin" styleMapStyleName="regular" stylename="Thin">
         <location>
             <dimension name="weight" xvalue="20.000000"/>
         </location>
@@ -93,7 +93,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-Black.ufo" sortorder="11" styleMapFamilyName="Blinker Black" styleMapStyleName="regular" stylename="Black">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-Black.ufo" sortorder="11" styleMapFamilyName="Blinker Black" styleMapStyleName="regular" stylename="Black">
         <location>
             <dimension name="weight" xvalue="220.000000"/>
         </location>
@@ -102,7 +102,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-Regular.ufo" sortorder="7" styleMapFamilyName="Blinker" styleMapStyleName="regular" stylename="Regular">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-Regular.ufo" sortorder="7" styleMapFamilyName="Blinker" styleMapStyleName="regular" stylename="Regular">
         <location>
             <dimension name="weight" xvalue="82.000000"/>
         </location>
@@ -111,7 +111,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="Blinker" filename="instances/Blinker-Bold.ufo" sortorder="9" styleMapFamilyName="Blinker" styleMapStyleName="bold" stylename="Bold">
+    <instance familyname="Blinker" filename="../../../../../../Applications/Superpolator.app/Contents/Resources/instances/Blinker-Bold.ufo" sortorder="9" styleMapFamilyName="Blinker" styleMapStyleName="bold" stylename="Bold">
         <location>
             <dimension name="weight" xvalue="150.000000"/>
         </location>

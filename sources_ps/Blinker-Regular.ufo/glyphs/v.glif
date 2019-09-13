@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="v" format="2">
-  <advance width="494"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="494.0"/>
   <unicode hex="0076"/>
-  <guideline x="252" y="494" angle="90.0" name="mid" identifier="YXl2aE4H5p"/>
-  <guideline x="115" y="459" angle="202.99727096438093" identifier="bcqsXtAtIx"/>
   <outline>
     <contour>
       <point x="484.0" y="494.0" type="line"/>
@@ -17,12 +15,46 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.YXl2aE4H5p</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.bcqsXtAtIx</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.6,0.8,0,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>252</integer>
+          <key>y</key>
+          <integer>494</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>-157.00272903561907</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>115</integer>
+          <key>y</key>
+          <integer>459</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.8</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

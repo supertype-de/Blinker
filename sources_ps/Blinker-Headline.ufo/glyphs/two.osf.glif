@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="two.osf" format="2">
-  <advance width="364"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="1">
+  <advance width="364.0"/>
   <outline>
     <contour>
       <point x="351.0" y="0.0" type="line"/>
@@ -32,8 +32,13 @@
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0,0.8,0.8,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

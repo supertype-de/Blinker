@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="thorn" format="2">
-  <advance width="541"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="1">
+  <advance width="541.0"/>
   <unicode hex="00FE"/>
-  <guideline x="303" y="247" angle="0" identifier="E1fmPd1bS3"/>
   <outline>
     <contour>
       <point x="66.0" y="-152.0" type="line"/>
@@ -41,10 +40,32 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.E1fmPd1bS3</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>0.2,0.8,0.6,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>303</integer>
+          <key>y</key>
+          <integer>247</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="iacute" format="2">
-  <advance width="236"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="acute" xOffset="-26" yOffset="-10"/>
-  </outline>
-</glyph>

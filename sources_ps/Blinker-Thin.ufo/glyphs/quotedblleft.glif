@@ -1,15 +1,71 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="quotedblleft" format="2">
-  <advance width="301"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="301.0"/>
   <unicode hex="201C"/>
   <outline>
-    <component base="quoteright" xScale="-1" yScale="-1" xOffset="163" yOffset="1105"/>
-    <component base="quoteright" xScale="-1" yScale="-1" xOffset="303" yOffset="1105"/>
+    <component base="quoteright" xScale="-1.0" yScale="-1.0" xOffset="163.0" yOffset="1105.0"/>
+    <component base="quoteright" xScale="-1.0" yScale="-1.0" xOffset="303.0" yOffset="1105.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.8,0.6,0.4,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Rogers_Bold_11.ufo</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>quoteright</string>
+              <key>transformation</key>
+              <array>
+                <integer>-1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>-1</integer>
+                <integer>214</integer>
+                <integer>1100</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>quoteright</string>
+              <key>transformation</key>
+              <array>
+                <integer>-1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>-1</integer>
+                <integer>394</integer>
+                <integer>1100</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>301.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

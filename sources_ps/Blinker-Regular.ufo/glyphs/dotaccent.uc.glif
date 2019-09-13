@@ -1,8 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dotaccent.uc" format="2">
-  <advance width="200"/>
-  <guideline x="119" y="586" angle="90" name="mid" identifier="nVoOvRgT3N"/>
-  <anchor x="101.0" y="530.0" name="_top"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.uc" format="1">
+  <advance width="200.0"/>
   <outline>
     <contour>
       <point x="60.0" y="564.0" type="line"/>
@@ -10,13 +8,36 @@
       <point x="140.0" y="636.0" type="line"/>
       <point x="60.0" y="636.0" type="line"/>
     </contour>
+    <contour>
+      <point x="101.0" y="530.0" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.nVoOvRgT3N</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>mid</string>
+          <key>x</key>
+          <integer>119</integer>
+          <key>y</key>
+          <integer>586</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

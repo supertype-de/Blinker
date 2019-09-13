@@ -1,15 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="atilde" format="2">
-  <advance width="495"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="1">
+  <advance width="495.0"/>
   <unicode hex="00E3"/>
   <outline>
     <component base="a"/>
-    <component base="tilde" xOffset="53"/>
+    <component base="tilde" xOffset="53.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.8724,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8724</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

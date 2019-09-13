@@ -1,8 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ring.uc" format="2">
-  <advance width="347"/>
-  <guideline x="80" y="647" angle="0" identifier="jy4QiaBXZZ"/>
-  <anchor x="172" y="530" name="_top"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.uc" format="1">
+  <advance width="347.0"/>
   <outline>
     <contour>
       <point x="172.0" y="608.0" type="curve" smooth="yes"/>
@@ -32,15 +30,38 @@
       <point x="47.0" y="567.0"/>
       <point x="97.0" y="528.0"/>
     </contour>
+    <contour>
+      <point x="172" y="530" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>com.typemytype.robofont.guideline.magnetic.jy4QiaBXZZ</key>
-      <real>5.0</real>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>80</integer>
+          <key>y</key>
+          <integer>647</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,16 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="arrowdown" format="2">
-  <advance width="677"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdown" format="1">
+  <advance width="677.0"/>
   <unicode hex="2193"/>
   <outline>
-    <component base="arrowup" xScale="-1" yScale="-1" xOffset="677" yOffset="627"/>
+    <component base="arrowup" xScale="-1.0" yScale="-1.0" xOffset="677.0" yOffset="627.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
-      <data></data>
-      <key>public.markColor</key>
-      <string>1,0.3803,0,1</string>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3803</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

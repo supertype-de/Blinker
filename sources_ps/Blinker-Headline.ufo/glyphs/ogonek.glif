@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ogonek" format="2">
-  <advance width="276"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="276.0"/>
   <unicode hex="02DB"/>
-  <anchor x="240" y="9" name="_ogonek"/>
   <outline>
     <contour>
       <point x="240.0" y="9.0" type="curve"/>
@@ -26,11 +25,19 @@
       <point x="144.0" y="-11.307692307692307"/>
       <point x="200.21907969401107" y="1.0438159388022132"/>
     </contour>
+    <contour>
+      <point x="240" y="9" type="move" name="_ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

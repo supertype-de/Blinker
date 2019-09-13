@@ -1,15 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Lcaron" format="2">
-  <advance width="475"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="475.0"/>
   <unicode hex="013D"/>
   <outline>
     <component base="L"/>
-    <component base="caron.alt" xOffset="298" yOffset="-38"/>
+    <component base="caron.alt" xOffset="298.0" yOffset="-38.0"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.8724,0,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8724</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

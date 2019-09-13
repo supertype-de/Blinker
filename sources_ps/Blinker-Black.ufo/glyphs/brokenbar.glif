@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="brokenbar" format="2">
-  <advance width="172"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="172.0"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
@@ -20,8 +20,13 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-28 20:47:43 +0000</string>
-      <key>public.markColor</key>
-      <string>0.8,0.6,0.4,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

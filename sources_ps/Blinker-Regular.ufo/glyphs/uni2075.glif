@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni2075" format="2">
-  <advance width="292"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2075" format="1">
+  <advance width="292.0"/>
   <unicode hex="2075"/>
   <outline>
     <contour>
@@ -40,8 +40,13 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-18 20:05:04 +0000</string>
-      <key>public.markColor</key>
-      <string>0,0.8,0.8,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

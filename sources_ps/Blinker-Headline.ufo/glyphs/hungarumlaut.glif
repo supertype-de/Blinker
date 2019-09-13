@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="hungarumlaut" format="2">
-  <advance width="492"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="492.0"/>
   <unicode hex="02DD"/>
-  <anchor x="218.0" y="530.0" name="_top"/>
   <outline>
     <contour>
       <point x="99.0" y="635.0" type="line"/>
@@ -16,11 +15,19 @@
       <point x="327.0" y="530.0" type="line"/>
       <point x="423.0" y="635.0" type="line"/>
     </contour>
+    <contour>
+      <point x="218.0" y="530.0" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.7124,0.8667,1</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7124</real>
+        <real>0.8667</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
