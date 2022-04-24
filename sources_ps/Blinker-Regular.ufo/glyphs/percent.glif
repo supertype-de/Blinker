@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="percent" format="1">
-  <advance width="640.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="640"/>
   <unicode hex="0025"/>
   <outline>
     <contour>
@@ -59,19 +59,14 @@
       <point x="364.0" y="38.0"/>
       <point x="398.0" y="-4.0"/>
     </contour>
-    <component base="fraction" xOffset="243.0"/>
+    <component base="fraction" xOffset="243"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-19 12:46:41 +0000</string>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="percent" format="1">
-  <advance width="634.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="634"/>
   <unicode hex="0025"/>
   <outline>
     <contour>
@@ -59,96 +59,14 @@
       <point x="358.0" y="38.0"/>
       <point x="389.0" y="-3.0"/>
     </contour>
-    <component base="fraction" xOffset="253.0"/>
+    <component base="fraction" xOffset="253"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-19 12:46:41 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>Rogers_Bold_11.ufo</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>fraction</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>33</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>uni2070</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>-146</integer>
-                <integer>-120</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>uni2070</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>313</integer>
-                <integer>-400</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>uni2070</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>673</integer>
-                <integer>-400</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>percent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>634.0</real>
-        </dict>
-      </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

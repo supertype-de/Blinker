@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>S_S</key>
+    <string>S__S_.glif</string>
+    <key>f_i</key>
+    <string>f_i.glif</string>
+    <key>f_l</key>
+    <string>f_l.glif</string>
+    <key>ij</key>
+    <string>ij.glif</string>
+    <key>ogonek.alt</key>
+    <string>ogonek.alt.glif</string>
+    <key>onehalf</key>
+    <string>onehalf.glif</string>
+    <key>onequarter</key>
+    <string>onequarter.glif</string>
+    <key>threequarters</key>
+    <string>threequarters.glif</string>
+    <key>uniFB01</key>
+    <string>uniF_B_01.glif</string>
+    <key>uniFB02</key>
+    <string>uniF_B_02.glif</string>
+  </dict>
+</plist>

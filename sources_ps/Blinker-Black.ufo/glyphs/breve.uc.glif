@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve.uc" format="1">
-  <advance width="390.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.uc" format="2">
+  <advance width="390"/>
+  <anchor x="196" y="530" name="_top"/>
   <outline>
     <contour>
       <point x="340.0" y="667.0" type="curve"/>
@@ -18,21 +19,13 @@
       <point x="279.0" y="528.0"/>
       <point x="340.0" y="578.0"/>
     </contour>
-    <contour>
-      <point x="196" y="530" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7124</real>
-        <real>0.8667</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
     </dict>
   </lib>
 </glyph>

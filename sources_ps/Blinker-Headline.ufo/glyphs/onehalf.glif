@@ -1,21 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onehalf" format="1">
-  <advance width="570.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="570"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="uni00B9" xOffset="2.0"/>
-    <component base="fraction" xOffset="181.0"/>
-    <component base="two.dnom" xOffset="342.0"/>
+    <component base="uni00B9" xOffset="2"/>
+    <component base="fraction" xOffset="181"/>
+    <component base="two.dnom" xOffset="342"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
     </dict>
   </lib>
 </glyph>

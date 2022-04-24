@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="percent" format="1">
-  <advance width="575.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="575"/>
   <unicode hex="0025"/>
   <outline>
     <contour>
@@ -59,17 +59,12 @@
       <point x="325.0" y="39.0"/>
       <point x="361.0" y="-8.0"/>
     </contour>
-    <component base="fraction" xOffset="207.0"/>
+    <component base="fraction" xOffset="207"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eth" format="1">
-  <advance width="624.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="624"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
@@ -9,17 +9,12 @@
       <point x="20.0" y="351.0" type="line"/>
       <point x="20.0" y="291.0" type="line"/>
     </contour>
-    <component base="D" xOffset="18.0"/>
+    <component base="D" xOffset="18"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.2</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.2,0.8,0.6,1</string>
     </dict>
   </lib>
 </glyph>

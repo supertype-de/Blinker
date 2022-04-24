@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="U" format="1">
-  <advance width="510.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="510"/>
   <unicode hex="0055"/>
+  <anchor x="256.0" y="637.0" name="top"/>
+  <anchor x="413.0" y="40.0" name="ogonekalt"/>
   <outline>
     <contour>
       <point x="303.0" y="625.0" type="line"/>
@@ -23,22 +25,11 @@
       <point x="496.0" y="270.0" type="curve" smooth="yes"/>
       <point x="496.0" y="625.0" type="line"/>
     </contour>
-    <contour>
-      <point x="256.0" y="637.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="413.0" y="40.0" type="move" name="ogonekalt"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6</real>
-        <real>0.8</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
     </dict>
   </lib>
 </glyph>

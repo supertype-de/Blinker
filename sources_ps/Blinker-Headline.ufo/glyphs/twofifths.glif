@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twofifths" format="2">
+  <advance width="610"/>
+  <unicode hex="2156"/>
+  <outline>
+    <component base="uni00B2"/>
+    <component base="fraction" xOffset="226"/>
+    <component base="five.dnom" xOffset="386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
+    </dict>
+  </lib>
+</glyph>

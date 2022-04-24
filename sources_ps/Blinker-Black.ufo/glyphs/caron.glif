@@ -1,39 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron" format="1">
-  <advance width="490.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="490"/>
   <unicode hex="02C7"/>
+  <guideline x="227" y="517" angle="90.0" identifier="cfyW82M63i"/>
+  <anchor x="246" y="530" name="_top"/>
   <outline>
-    <component base="circumflex" xScale="-1.0" yScale="-1.0" xOffset="490" yOffset="1202"/>
-    <contour>
-      <point x="246" y="530" type="move" name="_top"/>
-    </contour>
+    <component base="circumflex" xScale="-1" yScale="-1" xOffset="490" yOffset="1202"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>227</integer>
-          <key>y</key>
-          <integer>517</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7124</real>
-        <real>0.8667</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.cfyW82M63i</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
     </dict>
   </lib>
 </glyph>

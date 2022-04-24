@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2120" format="1">
-  <advance width="752.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2120" format="2">
+  <advance width="752"/>
   <unicode hex="2120"/>
+  <guideline x="287" y="276" angle="0" identifier="00XmNn4oHG"/>
   <outline>
     <contour>
       <point x="110.0" y="417.0" type="curve" smooth="yes"/>
@@ -65,30 +66,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-19 21:55:22 +0000</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>287</integer>
-          <key>y</key>
-          <integer>276</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.00XmNn4oHG</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

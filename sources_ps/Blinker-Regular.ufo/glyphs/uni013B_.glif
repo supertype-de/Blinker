@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni013B" format="1">
-  <advance width="472.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni013B" format="2">
+  <advance width="472"/>
   <unicode hex="013B"/>
   <outline>
     <component base="L"/>
-    <component base="uni0326" xOffset="178.0"/>
+    <component base="uni0326" xOffset="178"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.8724</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,0.8724,0,1</string>
     </dict>
   </lib>
 </glyph>

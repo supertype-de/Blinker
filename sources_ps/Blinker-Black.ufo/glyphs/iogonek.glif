@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iogonek" format="1">
-  <advance width="262.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="262"/>
   <unicode hex="012F"/>
   <outline>
     <component base="i"/>
-    <component base="ogonek" xOffset="-54.0" yOffset="-9.0"/>
+    <component base="ogonek" xOffset="-54" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.8724</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,0.8724,0,1</string>
     </dict>
   </lib>
 </glyph>

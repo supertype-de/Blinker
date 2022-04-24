@@ -1,21 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threequarters" format="1">
-  <advance width="751.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="751"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="uni00B3" xOffset="4.0"/>
-    <component base="fraction" xOffset="248.0"/>
-    <component base="four.dnom" xOffset="431.0"/>
+    <component base="uni00B3" xOffset="4"/>
+    <component base="fraction" xOffset="248"/>
+    <component base="four.dnom" xOffset="431"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
     </dict>
   </lib>
 </glyph>

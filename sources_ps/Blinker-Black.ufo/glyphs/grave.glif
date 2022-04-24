@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave" format="1">
-  <advance width="431.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="431"/>
   <unicode hex="0060"/>
+  <guideline x="130" y="705" angle="90.0" name="mid" identifier="rJUqnsFMaq"/>
+  <anchor x="260" y="530" name="_top"/>
   <outline>
     <contour>
       <point x="50.0" y="672.0" type="line"/>
@@ -9,38 +11,15 @@
       <point x="381.0" y="530.0" type="line"/>
       <point x="273.0" y="672.0" type="line"/>
     </contour>
-    <contour>
-      <point x="260" y="530" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>mid</string>
-          <key>x</key>
-          <integer>130</integer>
-          <key>y</key>
-          <integer>705</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7124</real>
-        <real>0.8667</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.rJUqnsFMaq</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
     </dict>
   </lib>
 </glyph>

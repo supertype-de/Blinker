@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nine.tf" format="1">
-  <advance width="500.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.tf" format="2">
+  <advance width="500"/>
   <outline>
     <contour>
       <point x="455.0" y="333.0" type="curve"/>
@@ -47,13 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-18 19:44:09 +0000</string>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <integer>0</integer>
-        <real>0.8</real>
-        <real>0.8</real>
-        <integer>1</integer>
-      </array>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
     </dict>
   </lib>
 </glyph>

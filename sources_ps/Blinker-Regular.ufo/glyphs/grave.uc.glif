@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave.uc" format="1">
-  <advance width="307.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.uc" format="2">
+  <advance width="307"/>
+  <guideline x="152" y="549" angle="90" name="mid" identifier="7OIi1CLXy3"/>
+  <anchor x="186.0" y="530.0" name="_top"/>
   <outline>
     <contour>
       <point x="52.0" y="676.0" type="line"/>
@@ -8,36 +10,13 @@
       <point x="257.0" y="564.0" type="line"/>
       <point x="156.0" y="676.0" type="line"/>
     </contour>
-    <contour>
-      <point x="186.0" y="530.0" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>mid</string>
-          <key>x</key>
-          <integer>152</integer>
-          <key>y</key>
-          <integer>549</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7124</real>
-        <real>0.8667</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.7OIi1CLXy3</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0312" format="1">
-  <advance width="271.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0312" format="2">
+  <advance width="271"/>
   <unicode hex="0312"/>
+  <guideline x="311" y="551" angle="90" name="mid" identifier="ZBmMeQhpuX"/>
+  <anchor x="137" y="530" name="_top"/>
   <outline>
     <contour>
       <point x="70.0" y="651.0" type="curve" smooth="yes"/>
@@ -12,36 +14,13 @@
       <point x="111.0" y="720.0"/>
       <point x="77.0" y="693.0"/>
     </contour>
-    <contour>
-      <point x="137" y="530" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>mid</string>
-          <key>x</key>
-          <integer>311</integer>
-          <key>y</key>
-          <integer>551</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7124</real>
-        <real>0.8667</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.ZBmMeQhpuX</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
     </dict>
   </lib>
 </glyph>

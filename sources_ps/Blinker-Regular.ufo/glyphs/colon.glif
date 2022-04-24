@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="colon" format="1">
-  <advance width="194.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="194"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" xOffset="10.0" yOffset="411.0"/>
-    <component base="period" xOffset="10.0"/>
+    <component base="period" xOffset="10" yOffset="411"/>
+    <component base="period" xOffset="10"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

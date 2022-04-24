@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.alt" format="2">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="359" y="663" type="line"/>
+      <point x="343" y="666"/>
+      <point x="293" y="675"/>
+      <point x="242" y="675" type="curve"/>
+      <point x="128" y="675"/>
+      <point x="57" y="610"/>
+      <point x="57" y="478" type="curve"/>
+      <point x="57" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="508" type="line" smooth="yes"/>
+      <point x="277" y="514"/>
+      <point x="282" y="506"/>
+      <point x="300" y="506" type="curve"/>
+      <point x="320" y="506"/>
+      <point x="348" y="502"/>
+      <point x="359" y="502" type="curve"/>
+    </contour>
+    <contour>
+      <point x="15" y="312" type="line"/>
+      <point x="344" y="312" type="line"/>
+      <point x="344" y="494" type="line"/>
+      <point x="15" y="494" type="line"/>
+    </contour>
+  </outline>
+</glyph>

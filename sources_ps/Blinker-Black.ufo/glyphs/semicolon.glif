@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="semicolon" format="1">
-  <advance width="251.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="251"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="comma" xOffset="10.0"/>
-    <component base="period" xOffset="5.0" yOffset="299.0"/>
+    <component base="comma" xOffset="10"/>
+    <component base="period" xOffset="5" yOffset="299"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="h" format="1">
-  <advance width="525.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="525"/>
   <unicode hex="0068"/>
+  <guideline x="0.0" y="239.0" angle="0.0" identifier="NDAD2XTYBv"/>
+  <guideline x="115" y="664" angle="90" name="mid" identifier="gCMYZC6jJA"/>
+  <anchor x="131.0" y="683" name="top"/>
   <outline>
     <contour>
       <point x="21.0" y="0.0" type="line"/>
@@ -27,50 +30,17 @@
       <point x="241.47636539730996" y="477.10598970272434"/>
       <point x="201.0" y="408.0" type="curve"/>
     </contour>
-    <contour>
-      <point x="131.0" y="683" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>239.0</real>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>mid</string>
-          <key>x</key>
-          <integer>115</integer>
-          <key>y</key>
-          <integer>664</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6</real>
-        <real>0.8</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.NDAD2XTYBv</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.gCMYZC6jJA</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
     </dict>
   </lib>
 </glyph>

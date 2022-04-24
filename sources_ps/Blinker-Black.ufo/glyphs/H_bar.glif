@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Hbar" format="1">
-  <advance width="684.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="684"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
@@ -9,17 +9,12 @@
       <point x="11.0" y="566.0" type="line"/>
       <point x="11.0" y="455.0" type="line"/>
     </contour>
-    <component base="H" xOffset="35.0"/>
+    <component base="H" xOffset="35"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.2</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.2,0.8,0.6,1</string>
     </dict>
   </lib>
 </glyph>

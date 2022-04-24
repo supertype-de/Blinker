@@ -1,57 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bullet" format="1">
-  <advance width="243.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="243"/>
   <unicode hex="2022"/>
   <outline>
-    <component base="period" xScale="2.05729668889" yScale="1.60140843447" xOffset="-11.860758995720005" yOffset="291.0"/>
+    <component base="period" xScale="2.05729668889" yScale="1.60140843447" xOffset="-11.860758995720005" yOffset="291"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>Rogers_Bold_11.ufo</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>period</string>
-              <key>transformation</key>
-              <array>
-                <real>1.41540306757</real>
-                <integer>0</integer>
-                <integer>0</integer>
-                <real>1.39534912638</real>
-                <integer>-19</integer>
-                <integer>222</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bullet</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>243.0</real>
-        </dict>
-      </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

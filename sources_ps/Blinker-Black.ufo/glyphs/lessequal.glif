@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lessequal" format="1">
-  <advance width="500.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="500"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
@@ -15,17 +15,12 @@
       <point x="37.0" y="378.0" type="line"/>
       <point x="37.0" y="227.0" type="line"/>
     </contour>
-    <component base="minus" yOffset="-222.0"/>
+    <component base="minus" yOffset="-222"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.8,0.6,0.4,1</string>
     </dict>
   </lib>
 </glyph>

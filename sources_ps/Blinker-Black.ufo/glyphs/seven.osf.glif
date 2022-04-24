@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven.osf" format="1">
-  <advance width="455.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="455"/>
   <outline>
     <contour>
       <point x="444.0" y="289.0" type="line"/>
@@ -16,15 +16,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018-09-18 20:40:45 +0000</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array/>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0,0.8,0.8,1</string>
     </dict>
   </lib>
 </glyph>

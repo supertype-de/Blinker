@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0237" format="1">
-  <advance width="266.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0237" format="2">
+  <advance width="266"/>
   <unicode hex="0237"/>
+  <guideline x="115" y="494" angle="90" name="mid" identifier="FPSaq3ObaA"/>
+  <anchor x="136.0" y="530" name="top"/>
   <outline>
     <contour>
       <point x="-16.0" y="-156.0" type="line"/>
@@ -21,38 +23,15 @@
       <point x="-7.0" y="-17.0"/>
       <point x="-16.0" y="-16.0" type="curve"/>
     </contour>
-    <contour>
-      <point x="136.0" y="530" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-09-04 15:51:07 +0000</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>mid</string>
-          <key>x</key>
-          <integer>115</integer>
-          <key>y</key>
-          <integer>494</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6</real>
-        <real>0.8</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.FPSaq3ObaA</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron.alt" format="1">
-  <advance width="44.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.alt" format="2">
+  <advance width="44"/>
+  <anchor x="42" y="665" name="_caronalt"/>
   <outline>
     <contour>
       <point x="196.0" y="523.0" type="curve" smooth="yes"/>
@@ -11,19 +12,11 @@
       <point x="155.0" y="454.0"/>
       <point x="190.0" y="481.0"/>
     </contour>
-    <contour>
-      <point x="42" y="665" type="move" name="_caronalt"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7124</real>
-        <real>0.8667</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,0.7124,0.8667,1</string>
     </dict>
   </lib>
 </glyph>
